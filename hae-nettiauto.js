@@ -15,11 +15,6 @@ const os = require('os');
 const path = require('path');
 
 const LIIKE = 'https://www.nettiauto.com/yritys/749618';
-/* Kuvat kopioidaan omaan kansioon (kuvat/<id>-<n>.jpg), jotta ne säilyvät vaikka Nettiauto poistaisi
-   ilmoituksen. JSONiin kirjoitetaan julkinen osoite, joka muodostuu ajokansion nimestä (kylmala). */
-const KUVAKANSIO = 'kuvat';
-const JULKINEN_URL = process.env.AUTODATA_URL
-  || 'https://cille5.github.io/autodata/' + path.basename(process.cwd()) + '/';
 const KEKSIT = path.join(os.tmpdir(), 'nettiauto-keksit.txt');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 
@@ -32,33 +27,6 @@ const tauko = () => execFileSync(process.execPath, ['-e', 'setTimeout(()=>{},100
 function hae(url){
   return execFileSync('curl', ['-sL', '--max-time', '40', '-c', KEKSIT, '-b', KEKSIT,
     '-A', UA, '-H', 'Accept-Language: fi-FI,fi;q=0.9', url], { encoding: 'utf8', maxBuffer: 40 * 1024 * 1024 });
-}
-
-/* Lataa kuvan tiedostoon; palauttaa julkisen osoitteen tai null jos lataus epäonnistui */
-function lataaKuva(url, tiedosto){
-  const polku = path.join(KUVAKANSIO, tiedosto);
-  if (!fs.existsSync(polku)){
-    try {
-      execFileSync('curl', ['-sL', '--max-time', '40', '-A', UA, '-o', polku, url]);
-      if (!fs.existsSync(polku) || fs.statSync(polku).size < 2000){ fs.rmSync(polku, { force: true }); return null; }
-    } catch (e){ fs.rmSync(polku, { force: true }); return null; }
-  }
-  return JULKINEN_URL + KUVAKANSIO + '/' + tiedosto;
-}
-
-/* Kopioi auton kuvat omaan kansioon. Jos Nettiauton kuvalista on sama kuin viimeksi, tiedostot ovat
-   jo tallessa; muuten vanhat poistetaan ja kaikki ladataan uudelleen. Epäonnistunut lataus jättää
-   Nettiauton osoitteen. */
-function tallennaKuvat(auto, pikkukuva, kuvalista){
-  const sama = Array.isArray(auto.kuvalahde) && JSON.stringify(auto.kuvalahde) === JSON.stringify([pikkukuva, ...kuvalista]);
-  if (!sama) poistaKuvat(auto.id);
-  auto.kuvalahde = [pikkukuva, ...kuvalista];
-  if (pikkukuva) auto.img = lataaKuva(pikkukuva, auto.id + '-thumb.jpg') || pikkukuva;
-  auto.images = kuvalista.map((url, i) => lataaKuva(url, auto.id + '-' + (i + 1) + '.jpg') || url);
-}
-function poistaKuvat(id){
-  if (!fs.existsSync(KUVAKANSIO)) return;
-  for (const f of fs.readdirSync(KUVAKANSIO)) if (f.startsWith(id + '-')) fs.rmSync(path.join(KUVAKANSIO, f));
 }
 
 /* ---------- Liikkeen ilmoituslista: mitkä autot ovat nyt myynnissä ---------- */
@@ -202,8 +170,6 @@ if (!myynnissa.length){
 
 const vanhat = new Map(JSON.parse(fs.readFileSync('autot.json', 'utf8')).map(c => [String(c.id), c]));
 const myydyt = [...vanhat.values()].filter(c => !myynnissa.some(u => u.id === String(c.id)));
-fs.mkdirSync(KUVAKANSIO, { recursive: true });
-myydyt.forEach(c => poistaKuvat(String(c.id)));   /* myytyjen kuvat pois levyltä */
 
 console.log('\nMyynnissä ' + myynnissa.length + ' autoa. Haetaan ilmoitusten tiedot...\n');
 
@@ -215,7 +181,6 @@ for (const perus of myynnissa){
   if (!vanha) uusia++;
   /* Vanhan auton omat lisäykset (badge ym.) säilyvät, ilmoituksen tiedot päivittyvät päälle */
   const auto = Object.assign({}, vanha, perus);
-  const pikkukuva = perus.img;   /* Nettiauton pikkukuva; korvataan omalla kopiolla alempana */
   try {
     const html = hae(auto.url);
     const lista = osiot(html);
@@ -228,7 +193,7 @@ for (const perus of myynnissa){
     const teksti = myyntiteksti(html);
 
     if (teksti) auto.sub = teksti;
-    tallennaKuvat(auto, pikkukuva, kuvalista);
+    if (kuvalista.length) auto.images = kuvalista;
     if (Object.keys(tiedotObj).length) auto.tiedot = tiedotObj;
     if (Object.keys(varusteObj).length) auto.varusteet = varusteObj;
     if (lisat.length) auto.lisatiedot = lisat;
@@ -240,8 +205,6 @@ for (const perus of myynnissa){
   } catch (e){
     virheita++;
     console.log('! ' + auto.name + ': ' + e.message);
-    /* Ilmoitussivu ei auennut: pidetään vanhat omat kuvat, jos ne ovat tallessa */
-    if (vanha && vanha.img && vanha.img.startsWith(JULKINEN_URL)) auto.img = vanha.img;
   }
   autot.push(auto);
   tauko();
