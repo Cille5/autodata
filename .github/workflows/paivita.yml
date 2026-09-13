@@ -1,0 +1,31 @@
+name: Päivitä autot
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'        # maanantaisin klo 03:00 UTC (06:00 Suomen aikaa)
+  workflow_dispatch:           # "Run workflow" -nappi GitHubissa
+
+permissions:
+  contents: write
+
+jobs:
+  kylmala:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Hae Nettiautosta
+        working-directory: kylmala
+        run: node ../hae-nettiauto.js
+
+      - name: Tallenna muutokset
+        run: |
+          git config user.name "autodata-bot"
+          git config user.email "autodata-bot@users.noreply.github.com"
+          git add kylmala/autot.json
+          git diff --cached --quiet && echo "Ei muutoksia" || git commit -m "Kylmälä: autot päivitetty $(date -u +%Y-%m-%d)"
+          git push
