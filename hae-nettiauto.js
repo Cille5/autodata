@@ -60,6 +60,7 @@ function varasto(){
       lista.push({
         id,
         name:  lyhenna(otsikko),
+        malli: malli.replace(/^\(\d[.,]\d\)\s*/, ''),
         sub:   malli,
         price: +hinta,
         year:  +(kentat[0] || '').replace(/\D/g, ''),
