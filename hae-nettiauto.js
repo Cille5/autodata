@@ -59,7 +59,7 @@ function varasto(){
       nahdyt.add(id);
       lista.push({
         id,
-        name:  lyhenna(otsikko + ' ' + malli.replace(/^\(\d[.,]\d\)\s*/, '')),
+        name:  lyhenna(otsikko),
         sub:   malli,
         price: +hinta,
         year:  +(kentat[0] || '').replace(/\D/g, ''),
