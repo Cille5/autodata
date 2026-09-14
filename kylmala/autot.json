@@ -1,7 +1,7 @@
 [
   {
     "id": "15953768",
-    "name": "Audi A3 Compact Coupé Business 1,4 TFSI kW",
+    "name": "Audi A3",
     "sub": "Todella siisti 1-omisteinen Audi A3 hyvällä huoltohistorialla! Katsastettu moitteitta 1.9.2026! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
     "price": 9750,
     "year": 2013,
@@ -93,7 +93,7 @@
   },
   {
     "id": "15561759",
-    "name": "BMW 116 2.0i Automaatti *Hyvällä huoltokirjalla *ketju tehty *MYYDÄÄN",
+    "name": "BMW 116",
     "sub": "Hieno 116 Automaatti BMW hyvällä huoltokirjalla!",
     "price": 7450,
     "year": 2010,
@@ -186,7 +186,7 @@
   },
   {
     "id": "15981103",
-    "name": "Citroen C4 1.6i 16v executive berline automaatti",
+    "name": "Citroen C4",
     "sub": "Hyvällä tekniikalla oleva automaatti C4! Jakohihna hiljattain vaihdettu",
     "price": 2950,
     "year": 2007,
@@ -271,7 +271,7 @@
   },
   {
     "id": "15780971",
-    "name": "Citroen C5 e-HDi 112 Tourer BMP6 Automaatti Stop&Start Confort",
+    "name": "Citroen C5",
     "sub": "(1,6) e-HDi 112 Tourer BMP6 Automaatti Stop&Start Confort Business Jakohihna vaihdettu 2023! Hienokuntoinen yksilö",
     "year": 2011,
     "km": 140000,
@@ -396,7 +396,7 @@
   },
   {
     "id": "15834199",
-    "name": "Dacia Sandero Stepway TCe 90 Prestige 1-omisteinen",
+    "name": "Dacia Sandero",
     "sub": "Hieno 1-omisteinen Sandero täydellisellä huoltokirjalla!",
     "year": 2016,
     "km": 99000,
@@ -491,7 +491,7 @@
   },
   {
     "id": "15933586",
-    "name": "Fiat 500 Lounge 1,2 8v 69hv Bensiini Lasikatto!",
+    "name": "Fiat 500",
     "sub": "Hieno Lasikatollinen Fiat 500",
     "year": 2012,
     "km": 144000,
@@ -577,7 +577,7 @@
   },
   {
     "id": "15872801",
-    "name": "Ford Fusion 1,6i 5d Ilmastointi",
+    "name": "Ford Fusion",
     "sub": "Hyvin huollettu vahva käyttöpeli! Katsastettu moitteitta 31.7.2026! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
     "year": 2006,
     "km": 228000,
@@ -659,7 +659,7 @@
   },
   {
     "id": "15687949",
-    "name": "Ford Ka 1,2 69 hv Titanium M5 3-ovinen",
+    "name": "Ford Ka",
     "sub": "Katsastettu 26.8.2026",
     "year": 2011,
     "km": 156000,
@@ -740,7 +740,7 @@
   },
   {
     "id": "15943969",
-    "name": "Ford Mondeo 1,8 125hv Ghia Limited 125 M5 Wagon",
+    "name": "Ford Mondeo",
     "sub": "Vähän ajettu, ruostesuojattu Mondeo varmalla tekniikalla!",
     "price": 4950,
     "year": 2006,
@@ -823,7 +823,7 @@
   },
   {
     "id": "15927933",
-    "name": "Honda Accord 4D 2,0 Elegance",
+    "name": "Honda Accord",
     "sub": "(2,0) 4D 2,0 Elegance",
     "year": 2010,
     "km": 240000,
@@ -926,7 +926,7 @@
   },
   {
     "id": "15882226",
-    "name": "Honda Civic Tourer 1,8i Joy Edition AT, Täydellinen huoltokirja,",
+    "name": "Honda Civic",
     "sub": "Todella siisti ja hyvin huollettu laatu Civic automaattivaihteistolla.",
     "year": 2015,
     "km": 190000,
@@ -1036,84 +1036,8 @@
     ]
   },
   {
-    "id": "15953747",
-    "name": "Hyundai i30 1,4 MPI 6MT ISG Comfort",
-    "sub": "Siisti ja fiksusti huollettu i30 kaksilla hyvillä renkailla! Rahoitus jopa ilman käsirahaa!",
-    "price": 7950,
-    "year": 2014,
-    "km": 144000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/09/02/9e87bdca0d6a5661-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15953747",
-    "images": [
-      "https://images.nettiauto.com/live/2026/09/02/9e87bdca0d6a5661-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/02/046c1530464b70bd-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/02/2ceb20e6af251d15-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/02/3179f9eaaf646faf-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/02/882ffe502e844037-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/02/afe0ff7e023b7ff5-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "UNG-834",
-        "Moottori": "1,4 l, Bensiini",
-        "Käyttöönottopäivä": "04.04.2014",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "8-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Valkoinen"
-      },
-      "Tekniset tiedot": {
-        "Teho": "73 kW / 99 Hv",
-        "Huippunopeus": "182 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 260 kg",
-        "Kokonaismassa": "1 720 kg",
-        "Vetomassa (jarrullinen)": "1 200 kg",
-        "Vetomassa (ei jarruja)": "600 kg",
-        "CO2 -päästöt": "130 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 7,2 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Isofix-valmius",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Luistonestojärjestelmä",
-        "Turvatyynyt"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Kaadettavat takaistuimet",
-        "Ohjaustehostin",
-        "Sähkökäyttöiset ikkunat",
-        "Ilmastointi: Manuaalinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Penkinlämmittimet"
-      ],
-      "Elektroniikka": [
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Monitoimiohjauspyörä",
-        "Kahdet renkaat"
-      ]
-    },
-    "lisatiedot": [
-      "2xhyvät renkaat",
-      "huoltokirja",
-      "ilmastointi"
-    ]
-  },
-  {
     "id": "15787952",
-    "name": "Hyundai i30 5d 1,6 CVVT 4AT Comfort",
+    "name": "Hyundai i30",
     "sub": "Vähän ajettu automaatti!",
     "year": 2011,
     "km": 119000,
@@ -1206,8 +1130,84 @@
     ]
   },
   {
+    "id": "15953747",
+    "name": "Hyundai i30",
+    "sub": "Siisti ja fiksusti huollettu i30 kaksilla hyvillä renkailla! Rahoitus jopa ilman käsirahaa!",
+    "price": 7950,
+    "year": 2014,
+    "km": 144000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/09/02/9e87bdca0d6a5661-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/15953747",
+    "images": [
+      "https://images.nettiauto.com/live/2026/09/02/9e87bdca0d6a5661-large.jpg",
+      "https://images.nettiauto.com/live/2026/09/02/046c1530464b70bd-large.jpg",
+      "https://images.nettiauto.com/live/2026/09/02/2ceb20e6af251d15-large.jpg",
+      "https://images.nettiauto.com/live/2026/09/02/3179f9eaaf646faf-large.jpg",
+      "https://images.nettiauto.com/live/2026/09/02/882ffe502e844037-large.jpg",
+      "https://images.nettiauto.com/live/2026/09/02/afe0ff7e023b7ff5-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "UNG-834",
+        "Moottori": "1,4 l, Bensiini",
+        "Käyttöönottopäivä": "04.04.2014",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "8-2026",
+        "Korimalli": "Viistoperä",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Valkoinen"
+      },
+      "Tekniset tiedot": {
+        "Teho": "73 kW / 99 Hv",
+        "Huippunopeus": "182 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 260 kg",
+        "Kokonaismassa": "1 720 kg",
+        "Vetomassa (jarrullinen)": "1 200 kg",
+        "Vetomassa (ei jarruja)": "600 kg",
+        "CO2 -päästöt": "130 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 7,2 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Isofix-valmius",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Luistonestojärjestelmä",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Ohjaustehostin",
+        "Sähkökäyttöiset ikkunat",
+        "Ilmastointi: Manuaalinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Penkinlämmittimet"
+      ],
+      "Elektroniikka": [
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Monitoimiohjauspyörä",
+        "Kahdet renkaat"
+      ]
+    },
+    "lisatiedot": [
+      "2xhyvät renkaat",
+      "huoltokirja",
+      "ilmastointi"
+    ]
+  },
+  {
     "id": "15862089",
-    "name": "Jaguar X-type 2,1 V6 Sedan Hieno!",
+    "name": "Jaguar X-type",
     "sub": "Ikäisekseen poikkeuksellisen siisti ja hyvin huollettu!",
     "year": 2003,
     "km": 192000,
@@ -1284,7 +1284,7 @@
   },
   {
     "id": "15975560",
-    "name": "Kia Carens 1,6 ISG LX EcoDynamics 5P",
+    "name": "Kia Carens",
     "sub": "Hiljattain huollettu Kia luotettavalla koneella Uudella tuulilasilla! Katsastettu 8.9.2026",
     "price": 6950,
     "year": 2014,
@@ -1382,7 +1382,7 @@
   },
   {
     "id": "15910369",
-    "name": "Kia Picanto 1,0 ISG LX EcoDynamics",
+    "name": "Kia Picanto",
     "sub": "1-omisteinen Picanto täydellisellä merkkiliikkeen huoltokirjalla!",
     "year": 2017,
     "km": 161000,
@@ -1468,7 +1468,7 @@
   },
   {
     "id": "15930771",
-    "name": "Kia Rio 1,2 ISG LX 5D EcoDynamics",
+    "name": "Kia Rio",
     "sub": "Hyvin huollettu Kestävä tekniikalla oleva kestosuosikki!",
     "year": 2015,
     "km": 195000,
@@ -1560,7 +1560,7 @@
   },
   {
     "id": "15976578",
-    "name": "Kia Soul 1,6 EX",
+    "name": "Kia Soul",
     "sub": "Laatu Kia varmalla ketjukoneella!",
     "price": 5950,
     "year": 2012,
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "15957382",
-    "name": "Mazda 6 2.0 STW Elegance VARATTU!",
+    "name": "Mazda 6",
     "sub": "Hyvä sähköinen huoltohistoria! Juuri elokuussa katsastettu moitteitta!",
     "price": 3450,
     "year": 2007,
@@ -1739,7 +1739,7 @@
   },
   {
     "id": "15727328",
-    "name": "Mercedes-Benz A 150 1.5 5-ov Classic, Vähän ajettu, hyvä",
+    "name": "Mercedes-Benz A",
     "sub": "Vähän ajettu, hyvin huollettu! Ikäisekseen siisti yksilö.",
     "year": 2005,
     "km": 135000,
@@ -1839,7 +1839,7 @@
   },
   {
     "id": "15980867",
-    "name": "Mercedes-Benz C 200 CDI BE Premium Business",
+    "name": "Mercedes-Benz C",
     "sub": "Siistikuntoinen automaatti Mersu Katsastettu 10.9.2026!",
     "price": 7450,
     "year": 2010,
@@ -1926,7 +1926,7 @@
   },
   {
     "id": "15811009",
-    "name": "Mitsubishi ASX 1,6 Cleartec Invite",
+    "name": "Mitsubishi ASX",
     "sub": "Kilometreihin nähden siis ASX juuri huollettuna ja kaksilla hyvillä renkailla",
     "year": 2012,
     "km": 254000,
@@ -2004,7 +2004,7 @@
   },
   {
     "id": "15744081",
-    "name": "Nissan Micra DIG-S 98 Acenta CVT TPMS, AUTOMAATTI, VÄHÄN AJETTU!",
+    "name": "Nissan Micra",
     "sub": "Vähän ajettu sekä hyvin varusteltu automaatti Micra! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
     "year": 2015,
     "km": 81000,
@@ -2098,7 +2098,7 @@
   },
   {
     "id": "15957196",
-    "name": "Nissan Note 1.6 i 5ov A/C",
+    "name": "Nissan Note",
     "sub": "Siistikuntoinen Note hyvällä ketjukoneella!",
     "price": 4450,
     "year": 2007,
@@ -2178,7 +2178,7 @@
   },
   {
     "id": "15766478",
-    "name": "Nissan Primera Traveller 1.8 Automaatti 5-ov, *Hyvä huoltokirja",
+    "name": "Nissan Primera",
     "sub": "Edullinen automaatti farkku, hyvällä koneella!",
     "year": 2005,
     "km": 275000,
@@ -2276,7 +2276,7 @@
   },
   {
     "id": "15661995",
-    "name": "Nissan Qashqai 1,6 Tekna 5MT 4x2 Lasikatto",
+    "name": "Nissan Qashqai",
     "sub": "Tekna varusteinen lasikattoinen qasqai varmalla koneella",
     "year": 2007,
     "km": 220000,
@@ -2360,7 +2360,7 @@
   },
   {
     "id": "15774025",
-    "name": "Nissan Qashqai 1,6L Acenta Panorama-kattoikkuna",
+    "name": "Nissan Qashqai",
     "sub": "Fiksu lasikatollinen Qashqai hyvällä huoltokirjalla",
     "year": 2011,
     "km": 205000,
@@ -2448,7 +2448,7 @@
   },
   {
     "id": "15810766",
-    "name": "Nissan Qashqai+2 2,0L Acenta 2WD 6M/T Lasikatolla!",
+    "name": "Nissan Qashqai+2",
     "sub": "Hyvin huollettu Qashqai seitsemällä istuimella!",
     "year": 2012,
     "km": 215000,
@@ -2541,7 +2541,7 @@
   },
   {
     "id": "15956168",
-    "name": "Nissan X-Trail 2,0 SE CVT 4x4 *Automaatti *Hyvin huollettu",
+    "name": "Nissan X-Trail",
     "sub": "Kunnollinen neliveto automaatti hyvin huollettuna!",
     "price": 6950,
     "year": 2008,
@@ -2637,7 +2637,7 @@
   },
   {
     "id": "15753061",
-    "name": "Opel Combo Van Van L2H1 1,3 CDTI Van 70kW MT5 (XIAE) ILMAN ADBLUETA!",
+    "name": "Opel Combo Van",
     "sub": "Siistikuntoinen pikkupaku ilman adblueta!",
     "year": 2018,
     "km": 158000,
@@ -2733,7 +2733,7 @@
   },
   {
     "id": "15917281",
-    "name": "Opel Corsa 1.4 5-ov Enjoy",
+    "name": "Opel Corsa",
     "sub": "Todella siis Corsa kohtuullisilla kilometreillä!",
     "year": 2011,
     "km": 120000,
@@ -2817,7 +2817,7 @@
   },
   {
     "id": "15962282",
-    "name": "Opel Meriva 1.6 5-ov",
+    "name": "Opel Meriva",
     "sub": "Ikäisekseen siistissä kunnossa!",
     "price": 1250,
     "year": 2003,
@@ -2895,7 +2895,7 @@
   },
   {
     "id": "15981567",
-    "name": "Opel Zafira Tourer 1,4 Turbo ecoFLEX Start/Stop 103kW MT6 Enjoy",
+    "name": "Opel Zafira Tourer",
     "sub": "7-paikkainen tila-auto",
     "price": 7350,
     "year": 2012,
@@ -3007,7 +3007,7 @@
   },
   {
     "id": "15942876",
-    "name": "Peugeot 508 SW Style HDi 115 FAP hyvät varusteet Navi, lasikatto, hud",
+    "name": "Peugeot 508",
     "sub": "Kestävä ja hyvin huollettu 508 HDi hyvillä varusteilla",
     "price": 4950,
     "year": 2014,
@@ -3105,7 +3105,7 @@
   },
   {
     "id": "15765695",
-    "name": "Renault Laguna 1.6 5-ov *Vähän ajettu *Vetokoukku *Harvinaisuus",
+    "name": "Renault Laguna",
     "sub": "Harvinaisuus! Vähän ajettu erittäin siistikuntoinen ja hyvin huollettu yksilö.",
     "year": 1999,
     "km": 106000,
@@ -3188,7 +3188,7 @@
   },
   {
     "id": "15975592",
-    "name": "Saab 9-3 2.0T Automaatti, Hieno turbo Saab hyvillä varusteilla!",
+    "name": "Saab 9-3",
     "sub": "Hieno turbo Saab hyvillä varusteilla!",
     "price": 4950,
     "year": 2004,
@@ -3284,7 +3284,7 @@
   },
   {
     "id": "15971523",
-    "name": "Skoda Fabia Combi 1,2 TSI 85 Style",
+    "name": "Skoda Fabia",
     "sub": "ilmastoitu ja hyvin huollettu!",
     "price": 5750,
     "year": 2012,
@@ -3367,7 +3367,7 @@
   },
   {
     "id": "15921367",
-    "name": "Toyota Avensis 1,6 Valvematic Terra Edition Wagon, Hyvin huollettu!",
+    "name": "Toyota Avensis",
     "sub": "Siistikuntoinen ja luotettava Avensis! Hyvin huollettu!",
     "year": 2010,
     "km": 233000,
@@ -3452,7 +3452,7 @@
   },
   {
     "id": "15933552",
-    "name": "Toyota Avensis 1,8 VVT-i Linea Sol Technical Liftback VARATTU",
+    "name": "Toyota Avensis",
     "sub": "Siisti, ruostesuojattu ja hyvin huollettu Avensis!",
     "year": 2005,
     "km": 248000,
@@ -3537,7 +3537,7 @@
   },
   {
     "id": "15957135",
-    "name": "Toyota Aygo 1,0 VVT-i Red 3ov",
+    "name": "Toyota Aygo",
     "sub": "Juuri katsastettu vähän ajettu luotto Toyota!",
     "price": 4450,
     "year": 2010,
@@ -3612,90 +3612,8 @@
     ]
   },
   {
-    "id": "15882316",
-    "name": "Toyota Corolla 1,4 VVT-i Linea Terra 4ov",
-    "sub": "Kilometreihin nähden todella siisti yksilö hyvällä huoltohistorialla!",
-    "year": 2007,
-    "km": 344000,
-    "gear": "Manuaali",
-    "fuel": "Bensiini",
-    "price": 3750,
-    "img": "https://images.nettiauto.com/live/2026/08/05/5bcf5efdd54bd35d-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15882316",
-    "images": [
-      "https://images.nettiauto.com/live/2026/08/05/5bcf5efdd54bd35d-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/d4375d2be1c1ec12-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/868af4863bfadd16-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/570bab7648dfcf4d-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/5d689a0fa5b3b915-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/ae9b937304a122af-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/7bee40cbd6db6a87-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/b8e11f7fdf8fbaf5-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/fce6ff7e55138101-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/811a269034ddcc3b-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/05/b07f230230592cf9-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "VCY-233",
-        "Moottori": "1,4 l, Bensiini",
-        "Käyttöönottopäivä": "07.03.2007",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "2-2026",
-        "Korimalli": "Sedan",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Hopea metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "71 kW / 97 Hv",
-        "Henkilömäärä": "5",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 300 kg",
-        "Kokonaismassa": "1 735 kg",
-        "Vetomassa (jarrullinen)": "1 000 kg",
-        "Vetomassa (ei jarruja)": "450 kg",
-        "CO2 -päästöt": "158 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 8,6 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Ajonvakautusjärjestelmä",
-        "Käynnistyksenesto",
-        "Turvatyynyt",
-        "Isofix-valmius",
-        "Lukkiutumattomat jarrut (ABS)"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähkökäyttöiset ikkunat",
-        "Ilmastointi: Manuaalinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke"
-      ],
-      "Elektroniikka": [
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Vetokoukku",
-        "Kahdet renkaat"
-      ]
-    },
-    "lisatiedot": [
-      "2x hyvät renkaat",
-      "ilmastointi",
-      "vetokoukku"
-    ]
-  },
-  {
     "id": "15718378",
-    "name": "Toyota Corolla 1,6 Valvematic Linea Sol 4ov, VAKKARI",
+    "name": "Toyota Corolla",
     "sub": "Siisti, hyvin varusteltu, varma toiminen Toyota!",
     "year": 2013,
     "km": 235000,
@@ -3785,8 +3703,90 @@
     ]
   },
   {
+    "id": "15882316",
+    "name": "Toyota Corolla",
+    "sub": "Kilometreihin nähden todella siisti yksilö hyvällä huoltohistorialla!",
+    "year": 2007,
+    "km": 344000,
+    "gear": "Manuaali",
+    "fuel": "Bensiini",
+    "price": 3750,
+    "img": "https://images.nettiauto.com/live/2026/08/05/5bcf5efdd54bd35d-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/15882316",
+    "images": [
+      "https://images.nettiauto.com/live/2026/08/05/5bcf5efdd54bd35d-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/d4375d2be1c1ec12-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/868af4863bfadd16-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/570bab7648dfcf4d-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/5d689a0fa5b3b915-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/ae9b937304a122af-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/7bee40cbd6db6a87-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/b8e11f7fdf8fbaf5-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/fce6ff7e55138101-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/811a269034ddcc3b-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/05/b07f230230592cf9-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "VCY-233",
+        "Moottori": "1,4 l, Bensiini",
+        "Käyttöönottopäivä": "07.03.2007",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "2-2026",
+        "Korimalli": "Sedan",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Hopea metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "71 kW / 97 Hv",
+        "Henkilömäärä": "5",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 300 kg",
+        "Kokonaismassa": "1 735 kg",
+        "Vetomassa (jarrullinen)": "1 000 kg",
+        "Vetomassa (ei jarruja)": "450 kg",
+        "CO2 -päästöt": "158 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 8,6 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Lukkiutumattomat jarrut (ABS)"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sähkökäyttöiset ikkunat",
+        "Ilmastointi: Manuaalinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Sisätilanpistoke"
+      ],
+      "Elektroniikka": [
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Vetokoukku",
+        "Kahdet renkaat"
+      ]
+    },
+    "lisatiedot": [
+      "2x hyvät renkaat",
+      "ilmastointi",
+      "vetokoukku"
+    ]
+  },
+  {
     "id": "15832834",
-    "name": "Toyota Yaris 1.3 5-ov",
+    "name": "Toyota Yaris",
     "sub": "varmatoiminen Pikku Yaris kaukosäädettävällä webastolla!",
     "year": 2006,
     "km": 178000,
@@ -3848,91 +3848,8 @@
     ]
   },
   {
-    "id": "15952605",
-    "name": "Volkswagen Golf 1.6 Farm *Ilmastointi *vetokoukku",
-    "sub": "fiksusti huollettu luottopeli!",
-    "price": 3450,
-    "year": 2005,
-    "km": 266000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/08/28/43436fd2845b9c1a-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15952605",
-    "images": [
-      "https://images.nettiauto.com/live/2026/08/28/43436fd2845b9c1a-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/7c73c1820eebc5d2-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/e402f5d81e12904f-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/8035b4e2cbe0b2f3-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/15518a2e0197e033-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/cf68520cf006f487-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/4d841f92e51d6edd-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/c2480af95df8899c-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/7fa5c9176df31911-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/92f1cd13e57ec471-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/1aeca8d8bd064db9-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/d1aeced171559dec-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/bb98f89897ca94ff-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/cd1dc626ce75c586-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/28/f50f55ab9a4c0212-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "CYO-839",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "23.05.2005",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "6-2026",
-        "Korimalli": "Farmari",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Beige"
-      },
-      "Tekniset tiedot": {
-        "Teho": "77 kW / 105 Hv",
-        "Henkilömäärä": "5",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 329 kg",
-        "Kokonaismassa": "1 840 kg",
-        "Vetomassa (jarrullinen)": "1 200 kg",
-        "Vetomassa (ei jarruja)": "600 kg",
-        "CO2 -päästöt": "168 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 9,4 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Automaattinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sähkökäyttöiset ikkunat",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet"
-      ],
-      "Elektroniikka": [
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Vetokoukku"
-      ]
-    },
-    "lisatiedot": [
-      "Automaatti ilmastointi",
-      "2xrenkaat",
-      "vetokoukku",
-      "Hyvä huoltokirja"
-    ]
-  },
-  {
     "id": "15919470",
-    "name": "Volkswagen Golf Trendline 1,0 TSI 63 kW (85 hv) Vähän ajettu!",
+    "name": "Volkswagen Golf",
     "sub": "Vähän ajettu yksilö, hyvällä huoltohistorialla! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
     "year": 2017,
     "km": 68000,
@@ -4017,8 +3934,91 @@
     ]
   },
   {
+    "id": "15952605",
+    "name": "Volkswagen Golf",
+    "sub": "fiksusti huollettu luottopeli!",
+    "price": 3450,
+    "year": 2005,
+    "km": 266000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/08/28/43436fd2845b9c1a-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/15952605",
+    "images": [
+      "https://images.nettiauto.com/live/2026/08/28/43436fd2845b9c1a-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/7c73c1820eebc5d2-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/e402f5d81e12904f-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/8035b4e2cbe0b2f3-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/15518a2e0197e033-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/cf68520cf006f487-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/4d841f92e51d6edd-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/c2480af95df8899c-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/7fa5c9176df31911-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/92f1cd13e57ec471-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/1aeca8d8bd064db9-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/d1aeced171559dec-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/bb98f89897ca94ff-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/cd1dc626ce75c586-large.jpg",
+      "https://images.nettiauto.com/live/2026/08/28/f50f55ab9a4c0212-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "CYO-839",
+        "Moottori": "1,6 l, Bensiini",
+        "Käyttöönottopäivä": "23.05.2005",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "6-2026",
+        "Korimalli": "Farmari",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Beige"
+      },
+      "Tekniset tiedot": {
+        "Teho": "77 kW / 105 Hv",
+        "Henkilömäärä": "5",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 329 kg",
+        "Kokonaismassa": "1 840 kg",
+        "Vetomassa (jarrullinen)": "1 200 kg",
+        "Vetomassa (ei jarruja)": "600 kg",
+        "CO2 -päästöt": "168 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 9,4 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Sähkökäyttöiset ikkunat",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet"
+      ],
+      "Elektroniikka": [
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Kahdet renkaat",
+        "Vetokoukku"
+      ]
+    },
+    "lisatiedot": [
+      "Automaatti ilmastointi",
+      "2xrenkaat",
+      "vetokoukku",
+      "Hyvä huoltokirja"
+    ]
+  },
+  {
     "id": "15924207",
-    "name": "Volkswagen New Beetle 2,0 85kW",
+    "name": "Volkswagen New Beetle",
     "sub": "Nyt sopivaan hintaan 2,0 litrainen, pirteän värinen New Beatle!",
     "year": 2000,
     "km": 209000,
@@ -4106,7 +4106,7 @@
   },
   {
     "id": "15738897",
-    "name": "Volkswagen Polo Comfortline 1,4 63 kW DSG-automaatti !",
+    "name": "Volkswagen Polo",
     "sub": "Kohtuukilometreillä siisti automaatti Polo!",
     "year": 2009,
     "km": 179000,
@@ -4198,7 +4198,7 @@
   },
   {
     "id": "15977940",
-    "name": "Volkswagen Transporter 2.0 TDI 103kw DSG Autom.",
+    "name": "Volkswagen Transporter",
     "sub": "Siistikuntoinen korotettu Transporter vaikka retkikäyttöön! Uusi tuulilasi, jakohihna ja isot rempat tehty hiljattain!",
     "price": 7950,
     "year": 2010,
