@@ -2,7 +2,7 @@ name: Päivitä autot
 
 on:
   schedule:
-    - cron: '0 3 * * 1'        # maanantaisin klo 03:00 UTC (06:00 Suomen aikaa)
+    - cron: '0 7 * * 1,4'      # maanantaisin ja torstaisin klo 07:00 UTC (10:00 Suomen kesäaikaa, 09:00 talviaikaa)
   workflow_dispatch:           # "Run workflow" -nappi GitHubissa
 
 permissions:
