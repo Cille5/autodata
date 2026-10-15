@@ -93,6 +93,97 @@
     "malli": "Compact Coupé Business 1,4 TFSI"
   },
   {
+    "id": "16045544",
+    "name": "BMW 318",
+    "malli": "2.0i Sedan Autom. Tuning!",
+    "sub": "Myydään harrastuskäyttöön, kaikin puolin toimiva BMW.",
+    "price": 3950,
+    "year": 2008,
+    "km": 207000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/10/13/d2d8b1bf3d7c06f8-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16045544",
+    "images": [
+      "https://images.nettiauto.com/live/2026/10/13/d2d8b1bf3d7c06f8-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/f9206de52511fc5e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/bf2812e14c97b815-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/53185d4ef7591e03-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/1548ef2b20717d5d-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/7d1720e521629a2a-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/3e5fdd40b15b2719-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/18b7dfd53221cc56-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/60dc2ced072b5514-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/9cc7a5e2b3c83f69-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/76078301acd4cded-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "BXT-835",
+        "Moottori": "2,0 l, Bensiini",
+        "Käyttöönottopäivä": "28.05.2008",
+        "Vetotapa": "Takaveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "5-2026",
+        "Korimalli": "Sedan",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Kupari metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "105 kW / 143 Hv",
+        "Huippunopeus": "210 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 465 kg",
+        "Kokonaismassa": "1 910 kg",
+        "Vetomassa (jarrullinen)": "1 400 kg",
+        "Vetomassa (ei jarruja)": "695 kg",
+        "CO2 -päästöt": "152 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 8,5 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Nahkaverhoilu",
+        "Penkinlämmittimet",
+        "Sähkökäyttöiset ikkunat",
+        "Ilmastointi: Automaattinen",
+        "Lohkolämmitin / moottorilämmitin",
+        "Ohjaustehostin",
+        "Pysäköintitutka"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä"
+      ],
+      "Muut": [
+        "Kevytmetallivanteet",
+        "Sadetunnistin",
+        "Monitoimiohjauspyörä"
+      ]
+    },
+    "lisatiedot": [
+      "1xrenkaat, 2xalumiini vanteet",
+      "Automaatti ilmastointi",
+      "Fiksu huoltohistoria",
+      "Nahkapenkit",
+      "Autossa alla tieliikenteeseen sopimattomat Spacerit ja pakoputken äänenvaimennus on ralli mallia, tästä syystä myydään edullisesti harrastuskäyttöön tällaisenaan!",
+      "CD-soitin",
+      "Radio"
+    ]
+  },
+  {
     "id": "15981103",
     "name": "Citroen C4",
     "sub": "Hyvällä tekniikalla oleva automaatti C4! Jakohihna hiljattain vaihdettu",
@@ -121,7 +212,7 @@
         "Käyttöönottopäivä": "27.07.2007",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
-        "Katsastettu": "11-2025",
+        "Katsastettu": "10-2026",
         "Korimalli": "Viistoperä",
         "Auton tyyppi": "Henkilöauto",
         "Väri": "Beige"
@@ -176,7 +267,7 @@
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
-    "malli": "1.6i 16v executive berline automaatti"
+    "malli": "Katsastettu 10/2026 - 1.6i 16v executive berline automaatti"
   },
   {
     "id": "15780971",
@@ -303,113 +394,6 @@
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
     "malli": "e-HDi 112 Tourer BMP6 Automaatti Stop&Start Confort Business Jakohihna vaihdettu 2023! Hienokuntoinen yksilö"
-  },
-  {
-    "id": "16016781",
-    "name": "Fiat 500",
-    "malli": "Upea helmiäisvalkoinen yksilö - Lasikatolla!",
-    "sub": "(1,2) Upea helmiäisvalkoinen yksilö - Lasikatolla!",
-    "price": 5950,
-    "year": 2013,
-    "km": 119000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/09/29/867b1ae008a50e44-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16016781",
-    "images": [
-      "https://images.nettiauto.com/live/2026/09/29/867b1ae008a50e44-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/c6a6dbb159642d13-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/5c9b95cb0cb9ad81-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/716acfcf810f5d9a-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/d5b9252aa94121d7-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/e994c10baeba95ba-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/76886f1435de6782-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/a6a48736294d4653-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/cba31512107f9552-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/942f92dc4f4af915-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/3cfc3eb5ba3741d0-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/9d000f5c58e935f5-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/1282eb5b0b6f24f6-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/71df88caf42a8d92-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/d2b28e93e00f0a7e-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/88607dd8478773f2-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/47687e95989350a6-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "RRB-918",
-        "Moottori": "1,2 l, Bensiini",
-        "Käyttöönottopäivä": "24.01.2013",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "9-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Valkoinen"
-      },
-      "Tekniset tiedot": {
-        "Teho": "51 kW / 69 Hv",
-        "Huippunopeus": "160 km/h",
-        "Henkilömäärä": "4",
-        "Ovien lkm": "2",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "940 kg",
-        "Kokonaismassa": "1 305 kg",
-        "Vetomassa (jarrullinen)": "800 kg",
-        "Vetomassa (ei jarruja)": "400 kg",
-        "CO2 -päästöt": "113 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 5,7 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Turvatyynyt",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Automaattinen",
-        "Lohkolämmitin / moottorilämmitin",
-        "Pysäköintitutka",
-        "Sähkökäyttöiset ikkunat",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke",
-        "Sähköpeilit"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä",
-        "Matkapuhelinvarustus"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Monitoimiohjauspyörä",
-        "Kahdet renkaat",
-        "Lasikatto"
-      ]
-    },
-    "lisatiedot": [
-      "Fiat 500 1.2 italialaista elämäniloa helmiäisvalkoisena!",
-      "Tämä pieni italialainen tuo hymyn huulille joka kerta, kun avaat oven. Helmiäisvalkoinen pinta hohtaa auringossa, ja lasikaton läpi näet taivaan joka matkalla. Kaupunkiajo tuntuu kuin Rooman kaduilla!",
-      "Miksi juuri tämä?",
-      "Lasikatto tuo valoa ja tilan tuntua",
-      "Helmiäisvalkoinen väri, joka erottuu edukseen",
-      "Pirteä ja taloudellinen 1.2-bensiinimoottori",
-      "Käsivalintainen vaihteisto ja hauska ajaa",
-      "Näppärä koko: parkkipaikka löytyy aina",
-      "Ajettu vain 119 000 km",
-      "Katsastettu 18.9.2026, joten voit lähteä huoletta liikkeelle",
-      "Tämä auto sopii sinulle, jos haluat autolta tyyliä, persoonaa ja pienet käyttökulut samassa paketissa.",
-      "Rahoitus onnistuu jopa ilman käsirahaa!",
-      "Tule koeajolle ja rakastu, sillä tällaiset yksilöt eivät jää pihaan odottelemaan!",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
   },
   {
     "id": "16016796",
@@ -588,6 +572,121 @@
       "2x Renkaat",
       "2x Avaimet",
       "Lohkolämmitin",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
+  },
+  {
+    "id": "16044505",
+    "name": "Ford Mondeo",
+    "malli": "1.6 / Katsastettu 10-2026",
+    "sub": "Katsastettu 10-2026 / Jakohihna vaihdettu 8-2026 / Hyvä huoltohistoria / Automaattinen ilmastointi / Vakionopeudensäädin / Vetokoukku",
+    "price": 4750,
+    "year": 2008,
+    "km": 247000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/10/13/e9f9c4cc3889f35c-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16044505",
+    "images": [
+      "https://images.nettiauto.com/live/2026/10/13/e9f9c4cc3889f35c-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/4544e1c86ad16d7e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/1514007088daab02-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/1674c3a14503b5ad-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/805fb005bb4cc3c8-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/59bfecfe18f28ff4-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/d4f7f747ec1b4555-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/6e6f8bae630fc9bf-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/bfc4e05495608e44-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/090b53f836c71b43-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/9a4c25cf03fe5e0d-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/982c244bbb855ff5-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/0d6d51ad52f98524-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/3c0ce9a7984281c2-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/87908d4e21eaf3b7-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/b9ea716b681a3298-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/0260bfe020b9b51d-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/3dc7e6c7497011f3-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/c5b7b5bb93961874-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/4e4ea97872671acd-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/c444fe68fc9cd53d-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/339aa011b84c2708-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/d204b0a38027740e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/08/59cc8297795e573a-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/13/18728c023e3dedac-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "MJY-111",
+        "Moottori": "1,6 l, Bensiini",
+        "Käyttöönottopäivä": "04.01.2008",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "10-2026",
+        "Korimalli": "Farmari",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Musta metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "81 kW / 110 Hv",
+        "Huippunopeus": "185 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 455 kg",
+        "Kokonaismassa": "2 050 kg",
+        "Vetomassa (jarrullinen)": "900 kg",
+        "Vetomassa (ei jarruja)": "685 kg",
+        "CO2 -päästöt": "172 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 10 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Suksiluukku",
+        "Sähköpeilit",
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Sisätilanpistoke",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Vetokoukku",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä"
+      ]
+    },
+    "lisatiedot": [
+      "Huoltohistoria:",
+      "-Jakohihna vaihdettu 8-2026",
+      "-Hyvä huoltohistoria",
+      "Esittely:",
+      "Tilava ja jämäkkä alustainen Mondeo-farmari, joka kulkee tasaisesti ja hiljaa niin kaupungissa kuin maantiellä. Auto on huollettu säännöllisesti ja huoltohistoria on hyvä, joten kilometreistä huolimatta se on luotettava valinta. Bensakone ja manuaalivaihteisto on yksinkertainen ja edullinen yhdistelmä ylläpitää. Iso tavaratila ja reilut sisätilat tekevät autosta erinomaisen perheautoksi, työautoksi tai pitkille matkoille.",
+      "Sinun auton arvo?",
+      "Haluatko tietää paljonko maksamme sinun autostasi?",
+      "Pyydä tarjous 60 sekunnissa: https://kylmalaoy.fi/Myy-auto-60-sekunnissa.html",
+      "Auton varusteet:",
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "tarkistathan tietojen oikeellisuus myyjältä",
       "**** rahoitus Jopa ilman käsirahaa ****"
@@ -3047,7 +3146,7 @@
   {
     "id": "16007300",
     "name": "Skoda Octavia",
-    "malli": "Tsi automaatti",
+    "malli": "1.4 Tsi automaatti",
     "sub": "Uusi tuulilasi, Hienokuntoinen yksilö, Hyvin huollettu, Vakionopeudensäädin, Lohkolämmitin, Ilmastointi",
     "price": 5490,
     "year": 2010,
@@ -3129,6 +3228,9 @@
       ]
     },
     "lisatiedot": [
+      "Haluatko tietää paljonko maksamme sinun autostasi?",
+      "Pyydä tarjous 60 sekunnissa: https://kylmalaoy.fi/Myy-auto-60-sekunnissa.html",
+      "Auton varusteet:",
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "tarkistathan tietojen oikeellisuus myyjältä",
       "**** rahoitus Jopa ilman käsirahaa ****"
