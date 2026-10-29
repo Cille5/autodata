@@ -456,7 +456,7 @@
     "id": "16065415",
     "name": "Citroen DS3",
     "malli": "1.6 VTi 120 So Chic Webasto kaukosäädöllä!",
-    "sub": "Webasto kaukosäätimellä / Hyvä huoltohistoria / Vakionopeuden säädin Myydään tuoreella katsastuksella!",
+    "sub": "Webasto kaukosäätimellä / Hyvä huoltohistoria / Vakionopeuden säädin Katsastettu 10/2026",
     "price": 4450,
     "year": 2012,
     "km": 150000,
@@ -491,7 +491,7 @@
         "Käyttöönottopäivä": "23.10.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
-        "Katsastettu": "10-2025",
+        "Katsastettu": "10-2026",
         "Korimalli": "Viistoperä",
         "Auton tyyppi": "Henkilöauto",
         "Väri": "Harmaa metalliväri"
@@ -553,108 +553,9 @@
     ]
   },
   {
-    "id": "16016796",
-    "name": "Fiat 500",
-    "malli": "Lounge 1,2 8v 69hv Bensiini Lasikatto!",
-    "sub": "Hieno Lasikatollinen Fiat 500",
-    "price": 5450,
-    "year": 2012,
-    "km": 144000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/10/09/84c1b8347f7e3065-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16016796",
-    "images": [
-      "https://images.nettiauto.com/live/2026/10/09/84c1b8347f7e3065-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/8b023c2a71d1a07d-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/9a54f5d821123c21-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/d70921dc06f5443c-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/8ddfcb46fc1ab5e0-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/47131964c9df54de-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/e0ff7257730376aa-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/0e8561b95d7d098d-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/17717ff7d2cf809f-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/149305893150b711-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/5496d41ef8a24917-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/b80d5f121f30a9e5-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/0ff60c03e0a44826-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/f196f6b3cf8b33c3-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/4e861900499df115-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/8ab77c0f3cadd61d-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/daf7a0e59fdd86fe-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/09/7962ac8a248e346b-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "EVF-448",
-        "Moottori": "1,2 l, Bensiini",
-        "Käyttöönottopäivä": "28.09.2012",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "6-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Punainen metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "51 kW / 69 Hv",
-        "Huippunopeus": "160 km/h",
-        "Henkilömäärä": "4",
-        "Ovien lkm": "2",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "940 kg",
-        "Kokonaismassa": "1 305 kg",
-        "Vetomassa (jarrullinen)": "800 kg",
-        "Vetomassa (ei jarruja)": "400 kg",
-        "CO2 -päästöt": "119 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 6,4 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Ajonvakautusjärjestelmä",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Turvatyynyt",
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Sumuvalot"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Automaattinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähkökäyttöiset ikkunat"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Lasikatto",
-        "Kahdet renkaat",
-        "Monitoimiohjauspyörä"
-      ]
-    },
-    "lisatiedot": [
-      "2x hyvät renkaat",
-      "ilmastointi",
-      "hyvä huoltokirja",
-      "Lohkolämmitin + sisäpistoke + sisätilanlämmitin",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
-  },
-  {
     "id": "16044505",
     "name": "Ford Mondeo",
-    "malli": "1.6 / Katsastettu 10-2026",
+    "malli": "1,6 110 hv Trend M5 Wagon Katsastettu 10-2026!",
     "sub": "Katsastettu 10-2026 / Jakohihna vaihdettu 8-2026 / Hyvä huoltohistoria / Automaattinen ilmastointi / Vakionopeudensäädin / Vetokoukku",
     "price": 4750,
     "year": 2008,
@@ -871,6 +772,114 @@
     "malli": "4D 2,0 Elegance"
   },
   {
+    "id": "16071775",
+    "name": "Hyundai i20",
+    "malli": "1,0 T-GDI 100 hv 7-DCT Black",
+    "sub": "Katsastus voimassa 15.5.2028 asti! / Hyvä huoltohistoria / Lohkolämmitin",
+    "price": 9950,
+    "year": 2020,
+    "km": 150000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/10/27/5a632680f9c4dcaa-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16071775",
+    "images": [
+      "https://images.nettiauto.com/live/2026/10/27/5a632680f9c4dcaa-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/cd368e84cc2a2bd3-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/e0d72fa7f235afc6-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/18afdb0ca61fb215-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/a715e62aa5b4abb2-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/1657e729ac332a43-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/c2a43e70c3faeec4-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/133e4c2f1e45c755-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/0fd330708fc1c4d3-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/ee7d22188402e1ed-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/80f32fbe596398ca-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/6751be976783dab8-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/9e3bdb4475bac3a7-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/2baa01005e2ca461-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/956be91e400b18fb-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/60bb336e8252ac25-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/94190c0e7d08498b-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/2025cc5f4d5e50b1-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/0ebcc20d9e9ea630-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "IMT-259",
+        "Moottori": "1,0 l, Bensiini",
+        "Käyttöönottopäivä": "12.08.2020",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "5-2026",
+        "Korimalli": "Viistoperä",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Punainen metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "74 kW / 101 Hv",
+        "Huippunopeus": "190 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "5",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 185 kg",
+        "Kokonaismassa": "1 650 kg",
+        "Vetomassa (jarrullinen)": "800 kg",
+        "Vetomassa (ei jarruja)": "450 kg",
+        "CO2 -päästöt": "114 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 5,9 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Pysäköintitutka",
+        "Start-stop-järjestelmä",
+        "Sähköpeilit",
+        "Ilmastointi: Manuaalinen",
+        "Kaistavahti",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sisätilanpistoke",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä",
+        "Bluetooth",
+        "USB"
+      ],
+      "Muut": [
+        "Huoltokirja: Sähköinen",
+        "Kevytmetallivanteet",
+        "Turbo",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä"
+      ]
+    },
+    "lisatiedot": [
+      "Maantiekulutus vain 4,7 l/100 km, automaattivaihteet ja edulliset käyttökulut. Tämä auto on helppo ajaa ja edullinen pitää, joten se sopii niin työmatkoille kuin lomareissuille!",
+      "Varusteet:",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
+  },
+  {
     "id": "15953747",
     "name": "Hyundai i30",
     "sub": "Siisti ja fiksusti huollettu i30 kaksilla hyvillä renkailla! Rahoitus jopa ilman käsirahaa!",
@@ -1036,6 +1045,116 @@
       "- Ilmastointi",
       "- Lohkolämmitin + sisätilanpistoke",
       "- USB, AUX",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
+  },
+  {
+    "id": "16069693",
+    "name": "Kia Ceed",
+    "malli": "1,6 EX SW DCT A/T",
+    "sub": "Hieno automaatti Ceed, Katsastettu 10/2026, Hyvin huollettu",
+    "price": 8750,
+    "year": 2016,
+    "km": 197000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/10/26/ee9711b1c25bd02e-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16069693",
+    "images": [
+      "https://images.nettiauto.com/live/2026/10/26/ee9711b1c25bd02e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/750d1c67718ec042-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/5158c65a45baa9db-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/0275bd8bc8936fe3-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/400bff5dc146f79a-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/e80075b2fd9c66da-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/62c435c0359e429d-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/e90c74f950c65dcf-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/6ba93213458e7c24-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/723687670079faca-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/05472f20bec6b5b2-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/fcf6b70969ac272e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/f7cd7463b7ba6d8f-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/7b6ee375dfc0bb04-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/001645e453b040dc-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/ca2aa9bedd0c9394-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/c1226fe64ea79a0e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/bb85d2956c7b68cd-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/62d7a7f7bc834f35-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/26/d259baa89eb6282f-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "CKL-391",
+        "Moottori": "1,6 l, Bensiini",
+        "Käyttöönottopäivä": "18.10.2016",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "10-2026",
+        "Korimalli": "Farmari",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Kupari metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "99 kW / 135 Hv",
+        "Huippunopeus": "193 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "5",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 403 kg",
+        "Kokonaismassa": "1 850 kg",
+        "Vetomassa (jarrullinen)": "1 300 kg",
+        "Vetomassa (ei jarruja)": "600 kg",
+        "CO2 -päästöt": "136 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 7,5 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Xenon-ajovalot",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Navigointijärjestelmä",
+        "Penkinlämmittimet",
+        "Pysäköintitutka",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen",
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Lämmitettävä ohjauspyörä",
+        "Ohjaustehostin",
+        "Peruutuskamera: Kamera takana",
+        "Sisätilanpistoke",
+        "Sähköpeilit"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "USB",
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Sadetunnistin",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä",
+        "Vetokoukku"
+      ]
+    },
+    "lisatiedot": [
+      "Hyvin huollettu ja siisti Ceed automaattivaihteistolla. Helppo ja rento ajaa niin kaupungissa kuin maantiellä. Taloudellinen pieni kulutus pitää käyttökulut kurissa. Katsastettu 10/2026, hyvin huollettu ja heti valmiina ajoon.",
+      "Varusteita:",
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "tarkistathan tietojen oikeellisuus myyjältä",
       "**** rahoitus Jopa ilman käsirahaa ****"
@@ -1223,132 +1342,20 @@
     "malli": "1,6 EX"
   },
   {
-    "id": "16016319",
-    "name": "Kia Sportage",
-    "malli": "1,6 ISG Urban LX EcoDynamics *Hyvin huollettu*",
-    "sub": "Vetokoukku, Hyvin huollettu, Ilmastointi, 2*renkaat",
-    "price": 7950,
-    "year": 2013,
-    "km": 200000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/09/29/26b4b412bb2b7729-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16016319",
-    "images": [
-      "https://images.nettiauto.com/live/2026/09/29/26b4b412bb2b7729-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/2f71c3ab1f771f15-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/9fd3045d38b665a2-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/316782795aabb18a-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/2880718c82835a59-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/42526b701ab81785-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/e0e6da63481a9dfd-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/c1e3d67970f6a846-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/caceb02bbe477295-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/3627177f41cc4c07-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/1e19fc342bf99cea-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/87beebfaf0606267-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/1fdcbe6134d176ac-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/707389896e0a208c-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/001e5cc4df734a41-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/884752ba7146043e-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/14918e187f99c161-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/ea32ee904eb8a21c-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/b92d78b22a3b2bae-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/59e42c37568a4dc3-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/c4d8eac97d3ce274-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/fff0f5a0de281336-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "GKO-905",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "03.07.2013",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "7-2026",
-        "Korimalli": "Maastoauto suv",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Hopea metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "99 kW / 135 Hv",
-        "Huippunopeus": "178 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 380 kg",
-        "Kokonaismassa": "1 830 kg",
-        "Vetomassa (jarrullinen)": "1 200 kg",
-        "Vetomassa (ei jarruja)": "750 kg",
-        "CO2 -päästöt": "149 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 7,5 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Isofix-valmius",
-        "Sumuvalot",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Turvatyynyt"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke",
-        "Sähköpeilit",
-        "Ilmastointi: Manuaalinen",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähkökäyttöiset ikkunat"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Vetokoukku"
-      ]
-    },
-    "lisatiedot": [
-      "Kia Sportage 1.6 bensiini, manuaali, 2013 tuore katsastus!",
-      "Tilava ja käytännöllinen SUV hyvällä huoltohistorialla. Auto on katsastettu 7/2026, joten voit ajaa huoletta pitkälle ensi vuoteen.",
-      "1.6 bensiini 99 kW, manuaalivaihteisto",
-      "Vetokoukku (jarrullinen perävaunu 1200 kg)",
-      "Ilmastointi",
-      "Huoltokirja mukana",
-      "Hopea metalliväri, 5 paikkaa",
-      "Ajettu 200 000 km",
-      "Hinta 7 950 €. Rahoitus jopa ilman käsirahaa! Vaihtoauto käy.",
-      "Haluatko tietää, paljonko maksamme autostasi? Jätä auton tiedot 60 sekunnissa: www.kylmalaoy.fi",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
-  },
-  {
-    "id": "16034952",
+    "id": "16071642",
     "name": "Mazda 2",
     "malli": "1.3 MZR 5-ov",
     "sub": "Katsastettu 8/2026 - Ilmastointi - 2xrenkaat - Suomiauto",
-    "price": 3950,
+    "price": 3750,
     "year": 2008,
     "km": 183000,
     "fuel": "Bensiini",
     "gear": "Manuaali",
     "img": "https://images.nettiauto.com/live/2026/10/08/f3fd660bf02a3f55-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16034952",
+    "url": "https://www.nettiauto.com/yritys/749618/16071642",
     "images": [
       "https://images.nettiauto.com/live/2026/10/08/f3fd660bf02a3f55-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/f7dde7fb7ef8c518-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/764ff299902d94ec-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/7fbac40646ea5983-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/bae8b4a2cd7734a3-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/8267225085cc2d52-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/96e299f7e1ca9cec-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/612467034079a497-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/04b69bbdd07be374-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/908440b906e30156-large.jpg",
@@ -1360,9 +1367,7 @@
       "https://images.nettiauto.com/live/2026/10/08/a9207463e256450b-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/a44b101c4ee3dcb1-large.jpg",
       "https://images.nettiauto.com/live/2026/10/08/eead54e34b75cde7-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/f245e376b9f22f37-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/181da9f4be140add-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/9d76edbe6b6e1d54-large.jpg"
+      "https://images.nettiauto.com/live/2026/10/08/f245e376b9f22f37-large.jpg"
     ],
     "tiedot": {
       "Perustiedot": {
@@ -1725,25 +1730,25 @@
     "malli": "200 CDI BE Premium Business"
   },
   {
-    "id": "15994234",
+    "id": "16070867",
     "name": "Nissan Micra",
-    "malli": "DIG-S 98 Acenta, AUTOMAATTI, VÄHÄN AJETTU!",
-    "sub": "Vähän ajettu sekä hyvin varusteltu automaatti Micra! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
-    "price": 8450,
+    "malli": "1.2 Acenta, AUTOMAATTI, VÄHÄN AJETTU!",
+    "sub": "Vähän ajettu sekä hyvin varusteltu automaatti Micra luotettavalla tekniikalla! Tähänkin autoon saatavilla rahoitus ja lisäturva!",
+    "price": 7450,
     "year": 2015,
     "km": 81000,
     "fuel": "Bensiini",
     "gear": "Automaatti",
-    "img": "https://images.nettiauto.com/live/2026/05/13/8dc5868c8a80aae7-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15994234",
+    "img": "https://images.nettiauto.com/live/2026/10/27/65d03d3f4aac25ca-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16070867",
     "images": [
-      "https://images.nettiauto.com/live/2026/05/13/8dc5868c8a80aae7-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/682845cc00a02c29-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/ab518b78be75aae1-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/52f271cc8a8a6974-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/d507b4269c0a179b-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/bfa5ece82db9502e-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/13/d4d43b754074eb4b-large.jpg"
+      "https://images.nettiauto.com/live/2026/10/27/65d03d3f4aac25ca-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/cdd49aa6ae9bc13e-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/5959c85cbbcd176a-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/d084ec443dd1a1c7-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/e160530bd5e6db19-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/2c1225534ff0f848-large.jpg",
+      "https://images.nettiauto.com/live/2026/10/27/050ed6080311128e-large.jpg"
     ],
     "tiedot": {
       "Perustiedot": {
@@ -2021,7 +2026,6 @@
       "https://images.nettiauto.com/live/2026/05/28/80598018859a82e3-large.jpg",
       "https://images.nettiauto.com/live/2026/05/28/359bae745540b5e3-large.jpg",
       "https://images.nettiauto.com/live/2026/05/28/51378f8a316af904-large.jpg",
-      "https://images.nettiauto.com/live/2026/05/28/58f9be5f717517d3-large.jpg",
       "https://images.nettiauto.com/live/2026/05/28/5c8929809eead905-large.jpg",
       "https://images.nettiauto.com/live/2026/05/28/a7c10b8a92f572cc-large.jpg"
     ],
@@ -2094,7 +2098,7 @@
   {
     "id": "16032942",
     "name": "Nissan Qashqai",
-    "malli": "1,6L Acenta 2WD 5MT MY10",
+    "malli": "1,6L Acenta 2WD 5MT MY10 Katsastettu 10/-26!",
     "sub": "Katsastettu 10/2026 /Suomi-Auto / Lohkolämmitin/ Vakkari / Autom.Ilmastointi / P-tutka",
     "price": 7350,
     "year": 2010,
@@ -2188,20 +2192,24 @@
       "Siistikuntoinen Nissan Qashqai, jolla on ajettu vain 154tkm!",
       "-Maantiekulutus vain 5,6 l/100 km",
       "-Lohkolämmitin",
-      "-Suomiauto"
+      "-Suomiauto",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "**** rahoitus Jopa ilman käsirahaa ****"
     ]
   },
   {
-    "id": "15810766",
+    "id": "16071518",
     "name": "Nissan Qashqai+2",
-    "sub": "Hyvin huollettu Qashqai seitsemällä istuimella!",
+    "malli": "2,0L 7-hengen Acenta Lasikatolla! Katsastettu 27.10.-26!",
+    "sub": "Hyvin huollettu Qashqai seitsemällä istuimella! Jopa ilman käsirahaa!",
+    "price": 6750,
     "year": 2012,
     "km": 215000,
-    "gear": "Manuaali",
     "fuel": "Bensiini",
-    "price": 6950,
+    "gear": "Manuaali",
     "img": "https://images.nettiauto.com/live/2025/11/18/6a093c57d550d6f2-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15810766",
+    "url": "https://www.nettiauto.com/yritys/749618/16071518",
     "images": [
       "https://images.nettiauto.com/live/2025/11/18/6a093c57d550d6f2-large.jpg",
       "https://images.nettiauto.com/live/2025/11/18/ae3810864108c4cd-large.jpg",
@@ -2222,7 +2230,7 @@
         "Käyttöönottopäivä": "03.12.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
-        "Katsastettu": "11-2025",
+        "Katsastettu": "10-2026",
         "Korimalli": "Tila-auto",
         "Auton tyyppi": "Henkilöauto",
         "Väri": "Harmaa metalliväri"
@@ -2285,8 +2293,7 @@
       "tarkistathan tietojen oikeellisuus myyjältä",
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "**** rahoitus Jopa ilman käsirahaa ****"
-    ],
-    "malli": "2,0L 7-hengen Acenta 2WD 6M/T Lasikatolla!"
+    ]
   },
   {
     "id": "15956168",
@@ -2384,94 +2391,6 @@
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
     "malli": "2,0 SE CVT 4x4 *Automaatti *Hyvin huollettu"
-  },
-  {
-    "id": "16036538",
-    "name": "Opel Astra",
-    "malli": "5-ov Enjoy 1,6 Ecotec 85kW AT6",
-    "sub": "Automaatti Astra luotettavalla 1.6 koneella!",
-    "price": 4950,
-    "year": 2010,
-    "km": 221000,
-    "fuel": "Bensiini",
-    "gear": "Automaatti",
-    "img": "https://images.nettiauto.com/live/2026/10/08/e3b11ea4f8d2290a-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16036538",
-    "images": [
-      "https://images.nettiauto.com/live/2026/10/08/e3b11ea4f8d2290a-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/4ff3974b92beeeba-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/7cdffa3d1d12179c-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/accc6487ff2d4363-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/93ebcfbf98b2a273-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/6c95333f74bb7f25-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/6c1b00fe92a6c0e9-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/93f26c7989b1ae10-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "LZB-788",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "23.06.2010",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "10-2026",
-        "Korimalli": "Tila-auto",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Punainen"
-      },
-      "Tekniset tiedot": {
-        "Teho": "85 kW / 116 Hv",
-        "Huippunopeus": "182 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 443 kg",
-        "Kokonaismassa": "1 940 kg",
-        "Vetomassa (jarrullinen)": "1 250 kg",
-        "Vetomassa (ei jarruja)": "680 kg",
-        "CO2 -päästöt": "167 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 9,8 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Ajonvakautusjärjestelmä",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Turvatyynyt",
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Sumuvalot"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähkökäyttöiset ikkunat",
-        "Ilmastointi: Manuaalinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke",
-        "Vakionopeudensäädin: Perinteinen"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Monitoimiohjauspyörä"
-      ]
-    },
-    "lisatiedot": [
-      "2xrenkaat",
-      "Ilmastointi",
-      "vakionopeuden säädin",
-      "Lohkolämmitin + sisäpistoke"
-    ]
   },
   {
     "id": "15753061",
@@ -3838,101 +3757,6 @@
     "lisatiedot": [
       "Haluatko tietää paljonko maksamme autostasi?",
       "Jätä auton tiedot www.kylmalaoy.fi"
-    ]
-  },
-  {
-    "id": "16035696",
-    "name": "Volkswagen Golf",
-    "malli": "Comfortline 1,4 TSI 90 kW, DSG-autom.",
-    "sub": "Katsastettu 07/2026 / ajettu 151 tkm / Huoltokirja / kahdet renkaat / vakionopeudensäädin",
-    "price": 5750,
-    "year": 2011,
-    "km": 151000,
-    "fuel": "Bensiini",
-    "gear": "Automaatti",
-    "img": "https://images.nettiauto.com/live/2026/10/08/75b1aebdb07b7860-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16035696",
-    "images": [
-      "https://images.nettiauto.com/live/2026/10/08/75b1aebdb07b7860-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/fd82642b3b95dd60-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/c1f860b96b39e752-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/8c6a5f8d34b0a41f-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/d2b99a6411893abf-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/28bad23921f5f069-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/29b2bad549931145-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/e0baf7c1f047a112-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/fe5211c8682e484e-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/3d73a855f0374a6e-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/3629eb332783d079-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/ba108c9b9c4362e0-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/e72bf2131ab7f592-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/3dd51ed2020fdf1e-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/1b555888b2a9fa7f-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/a8326d09ce63db3a-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/08/4a288e43ae31e6b2-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "ZNZ-118",
-        "Moottori": "1,4 l, Bensiini",
-        "Käyttöönottopäivä": "13.06.2011",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "7-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Sininen metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "90 kW / 122 Hv",
-        "Huippunopeus": "200 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 316 kg",
-        "Kokonaismassa": "1 850 kg",
-        "Vetomassa (jarrullinen)": "1 300 kg",
-        "Vetomassa (ei jarruja)": "650 kg",
-        "CO2 -päästöt": "138 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 7,7 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Turvatyynyt",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sähkökäyttöiset ikkunat",
-        "Vakionopeudensäädin: Perinteinen",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähköpeilit"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä",
-        "Matkapuhelinvarustus"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Monitoimiohjauspyörä"
-      ]
-    },
-    "lisatiedot": [
-      "Taloudellinen VW Golf 1,4 TSI DSG-automaatilla. Katsastettu 07/2026, ajettu 151 tkm. Huoltokirja, kahdet renkaat, vakionopeudensäädin, penkinlämmittimet ja lohkolämmitin.",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
     ]
   },
   {
