@@ -45,6 +45,7 @@
       "Perustiedot": {
         "Rekisterinumero": "JJG-441",
         "Moottori": "1,2 l, Bensiini",
+        "Ensirekisteröinti": "3-2014",
         "Käyttöönottopäivä": "31.03.2014",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -136,6 +137,7 @@
       "Perustiedot": {
         "Rekisterinumero": "VNZ-271",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "1-2013",
         "Käyttöönottopäivä": "03.01.2013",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -234,6 +236,7 @@
       "Perustiedot": {
         "Rekisterinumero": "VVY-143",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "3-2012",
         "Käyttöönottopäivä": "02.01.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -324,6 +327,7 @@
       "Perustiedot": {
         "Rekisterinumero": "NIY-954",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "11-2012",
         "Käyttöönottopäivä": "02.11.2012",
         "Vetotapa": "Takaveto",
         "Toimistomaksu": "100 €",
@@ -412,106 +416,6 @@
     ]
   },
   {
-    "id": "16065415",
-    "name": "Citroen DS3",
-    "malli": "1.6 VTi 120 So Chic VARATTU!",
-    "sub": "Webasto kaukosäätimellä / Hyvä huoltohistoria / Vakionopeuden säädin Katsastettu 10/2026",
-    "price": 4450,
-    "year": 2012,
-    "km": 150000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/10/23/6c8bb7ea1a2e6b88-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16065415",
-    "images": [
-      "https://images.nettiauto.com/live/2026/10/23/6c8bb7ea1a2e6b88-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/a1323254056cafa5-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/565fad5af004e940-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/6e2de5b04215b0a4-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/25aef5320b9803ed-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/48c29815c1900505-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/215338ad54ae8541-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/4af3625a425ebd0f-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/565c4960fe5f5d4c-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/dd7493078efc0b89-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/d6127f2db12039c1-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/74535f770a85697c-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/a8d67d9d6e3661b1-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/76b59e8769429693-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/7506e3032224e8fa-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/d3a444b03f5895a0-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/0cb734f93c2fae36-large.jpg",
-      "https://images.nettiauto.com/live/2026/10/23/0b5e302b92b1ad28-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "NIX-758",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "23.10.2012",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "10-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Harmaa metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "88 kW / 120 Hv",
-        "Huippunopeus": "190 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "2",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 189 kg",
-        "Kokonaismassa": "1 554 kg",
-        "Vetomassa (jarrullinen)": "1 150 kg",
-        "Vetomassa (ei jarruja)": "570 kg",
-        "CO2 -päästöt": "136 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 7,9 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Ajonvakautusjärjestelmä",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Turvatyynyt",
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Sumuvalot"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Automaattinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Penkinlämmittimet",
-        "Sähköpeilit",
-        "Kaadettavat takaistuimet",
-        "Ohjaustehostin",
-        "Sähkökäyttöiset ikkunat",
-        "Vakionopeudensäädin: Perinteinen"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä",
-        "USB"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Sadetunnistin"
-      ]
-    },
-    "lisatiedot": [
-      "-Webasto kaukosäätimellä",
-      "-Hyvä huoltohistoria",
-      "-Vakionopeuden säädin",
-      "Varusteet:",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
-  },
-  {
     "id": "16044505",
     "name": "Ford Mondeo",
     "malli": "1,6 110 hv Trend M5 Wagon Katsastettu 10-2026!",
@@ -550,6 +454,7 @@
       "Perustiedot": {
         "Rekisterinumero": "MJY-111",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "1-2008",
         "Käyttöönottopäivä": "04.01.2008",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -658,6 +563,7 @@
       "Perustiedot": {
         "Rekisterinumero": "CHR-735",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "8-2010",
         "Käyttöönottopäivä": "05.08.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -763,6 +669,7 @@
       "Perustiedot": {
         "Rekisterinumero": "IMT-259",
         "Moottori": "1,0 l, Bensiini",
+        "Ensirekisteröinti": "8-2020",
         "Käyttöönottopäivä": "12.08.2020",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -857,6 +764,7 @@
       "Perustiedot": {
         "Rekisterinumero": "UNG-834",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "4-2014",
         "Käyttöönottopäivä": "04.04.2014",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -912,100 +820,6 @@
     "malli": "1,4 MPI 6MT ISG Comfort"
   },
   {
-    "id": "15994717",
-    "name": "Hyundai i30",
-    "malli": "5d 1,6 CVVT 4AT Comfort",
-    "sub": "Vähän ajettu automaatti! Myydään tuorella katsastuksella!",
-    "price": 7450,
-    "year": 2011,
-    "km": 119000,
-    "fuel": "Bensiini",
-    "gear": "Automaatti",
-    "img": "https://images.nettiauto.com/live/2026/06/04/32080f4d0fbbf8f4-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15994717",
-    "images": [
-      "https://images.nettiauto.com/live/2026/06/04/32080f4d0fbbf8f4-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/aa1b13c7c9fe3e27-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/b6438407c731c848-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/09025db5cab520bf-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/a4c1b9207d13f7d9-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/b3a3586ae62272c9-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/48d9a01be0493588-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/a7fc909643229621-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/04c7f627a84af377-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/10221df7b494bdd1-large.jpg",
-      "https://images.nettiauto.com/live/2026/06/04/9943de5b4fa6df65-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "ELV-632",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "11.03.2011",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "1-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Harmaa metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "93 kW / 126 Hv",
-        "Huippunopeus": "183 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 289 kg",
-        "Kokonaismassa": "1 740 kg",
-        "Vetomassa (jarrullinen)": "1 200 kg",
-        "Vetomassa (ei jarruja)": "550 kg",
-        "CO2 -päästöt": "162 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 8,8 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Sumuvalot",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Turvatyynyt"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sisätilanpistoke",
-        "Sähköpeilit",
-        "Ilmastointi: Manuaalinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Rengaspainevalvonta -järjestelmä",
-        "Sähkökäyttöiset ikkunat"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Monitoimiohjauspyörä",
-        "Kahdet renkaat"
-      ]
-    },
-    "lisatiedot": [
-      "-2x Renkaat",
-      "-2x Avaimet",
-      "- Ilmastointi",
-      "- Lohkolämmitin + sisätilanpistoke",
-      "- USB, AUX",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
-  },
-  {
     "id": "16069693",
     "name": "Kia Ceed",
     "malli": "1,6 EX SW DCT A/T",
@@ -1043,6 +857,7 @@
       "Perustiedot": {
         "Rekisterinumero": "CKL-391",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "10-2016",
         "Käyttöönottopäivä": "18.10.2016",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1150,6 +965,7 @@
       "Perustiedot": {
         "Rekisterinumero": "LZO-574",
         "Moottori": "1,0 l, Bensiini",
+        "Ensirekisteröinti": "2-2012",
         "Käyttöönottopäivä": "22.02.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1209,7 +1025,7 @@
   {
     "id": "15976578",
     "name": "Kia Soul",
-    "sub": "Laatu Kia varmalla ketjukoneella!",
+    "sub": "Vetokoukku / Ilmastointi / Vakionopeudensäädin",
     "price": 5950,
     "year": 2012,
     "km": 181000,
@@ -1234,6 +1050,7 @@
       "Perustiedot": {
         "Rekisterinumero": "TXZ-462",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "5-2012",
         "Käyttöönottopäivä": "11.01.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1283,7 +1100,8 @@
       "Muut": [
         "Huoltokirja: Paperinen",
         "Kevytmetallivanteet",
-        "Kahdet renkaat"
+        "Kahdet renkaat",
+        "Vetokoukku"
       ]
     },
     "lisatiedot": [
@@ -1328,6 +1146,7 @@
       "Perustiedot": {
         "Rekisterinumero": "ONY-945",
         "Moottori": "1,3 l, Bensiini",
+        "Ensirekisteröinti": "7-2008",
         "Käyttöönottopäivä": "14.07.2008",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1392,7 +1211,7 @@
   {
     "id": "16005263",
     "name": "Mazda 6",
-    "malli": "2.0 Exclusive Hatchback",
+    "malli": "2.0 Exclusive Hatchback VARATTU!",
     "sub": "Hyvin huollettu ja siisti Suomi-auto. Kahdet renkaat, vakionopeudensäädin, katsastettu 7/26, vetokoukku.",
     "price": 4950,
     "year": 2010,
@@ -1421,6 +1240,7 @@
       "Perustiedot": {
         "Rekisterinumero": "LZC-915",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "8-2010",
         "Käyttöönottopäivä": "17.08.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1534,6 +1354,7 @@
       "Perustiedot": {
         "Rekisterinumero": "REZ-904",
         "Moottori": "1,5 l, Bensiini",
+        "Ensirekisteröinti": "10-2005",
         "Käyttöönottopäivä": "28.10.2005",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1621,6 +1442,7 @@
       "Perustiedot": {
         "Rekisterinumero": "BOC-168",
         "Moottori": "2,1 l, Diesel",
+        "Ensirekisteröinti": "7-2010",
         "Käyttöönottopäivä": "28.07.2010",
         "Vetotapa": "Takaveto",
         "Toimistomaksu": "100 €",
@@ -1717,6 +1539,7 @@
       "Perustiedot": {
         "Rekisterinumero": "BPE-975",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "10-2011",
         "Käyttöönottopäivä": "07.10.2011",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1813,6 +1636,7 @@
       "Perustiedot": {
         "Rekisterinumero": "CTB-855",
         "Moottori": "1,2 l, Bensiini",
+        "Ensirekisteröinti": "7-2015",
         "Käyttöönottopäivä": "22.07.2015",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1916,6 +1740,7 @@
       "Perustiedot": {
         "Rekisterinumero": "UKY-598",
         "Moottori": "1,8 l, Bensiini",
+        "Ensirekisteröinti": "5-2005",
         "Käyttöönottopäivä": "11.05.2005",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -1982,91 +1807,6 @@
     ]
   },
   {
-    "id": "15661995",
-    "name": "Nissan Qashqai",
-    "sub": "Tekna varusteinen lasikattoinen qasqai varmalla koneella",
-    "year": 2007,
-    "km": 220000,
-    "gear": "Manuaali",
-    "fuel": "Bensiini",
-    "price": 4950,
-    "img": "https://images.nettiauto.com/live/2026/04/02/b45826cc0a133530-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15661995",
-    "images": [
-      "https://images.nettiauto.com/live/2026/04/02/b45826cc0a133530-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/a332042d49987459-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/e751560d67b473cd-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/ab434ea3e3bc3716-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/d0cdba74738bc207-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/fc764c1cd5f5ad3b-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/fb728777970d2ddb-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/b98e72b7ae11f11e-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/2a5874e7e7168e69-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/7f226843bfa49b72-large.jpg",
-      "https://images.nettiauto.com/live/2026/04/02/5eabc9ad7f37c36b-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "FIP-985",
-        "Moottori": "1,6 l, Bensiini",
-        "Käyttöönottopäivä": "14.11.2007",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "10-2025",
-        "Korimalli": "Tila-auto",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Kupari metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "84 kW / 114 Hv",
-        "Henkilömäärä": "5",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 372 kg",
-        "Kokonaismassa": "1 830 kg",
-        "Vetomassa (jarrullinen)": "1 200 kg",
-        "Vetomassa (ei jarruja)": "685 kg",
-        "CO2 -päästöt": "162 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 8,4 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Ajonvakautusjärjestelmä",
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Isofix-valmius",
-        "Luistonestojärjestelmä",
-        "Turvatyynyt"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ajotietokone",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Ohjaustehostin",
-        "Sisätilanpistoke",
-        "Vakionopeudensäädin: Perinteinen",
-        "Ilmastointi: Automaattinen",
-        "Lohkolämmitin / moottorilämmitin",
-        "Penkinlämmittimet",
-        "Sähkökäyttöiset ikkunat"
-      ],
-      "Elektroniikka": [
-        "Bluetooth",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat",
-        "Lasikatto"
-      ]
-    },
-    "lisatiedot": [
-      "2xhyvät renkaat",
-      "Autom. Ilmastointi"
-    ],
-    "malli": "1,6 Tekna 5MT 4x2 Lasikatto"
-  },
-  {
     "id": "15774025",
     "name": "Nissan Qashqai",
     "sub": "Fiksu lasikatollinen Qashqai hyvällä huoltokirjalla",
@@ -2092,6 +1832,7 @@
       "Perustiedot": {
         "Rekisterinumero": "ELZ-581",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "5-2011",
         "Käyttöönottopäivä": "13.05.2011",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2189,6 +1930,7 @@
       "Perustiedot": {
         "Rekisterinumero": "UMF-183",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "12-2010",
         "Käyttöönottopäivä": "29.12.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2286,6 +2028,7 @@
       "Perustiedot": {
         "Rekisterinumero": "UTZ-671",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "12-2012",
         "Käyttöönottopäivä": "03.12.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2384,6 +2127,7 @@
       "Perustiedot": {
         "Rekisterinumero": "HTI-802",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "4-2008",
         "Käyttöönottopäivä": "03.04.2008",
         "Vetotapa": "Neliveto",
         "Toimistomaksu": "100 €",
@@ -2481,6 +2225,7 @@
       "Perustiedot": {
         "Rekisterinumero": "JKX-848",
         "Moottori": "1,2 l, Diesel",
+        "Ensirekisteröinti": "3-2018",
         "Käyttöönottopäivä": "12.03.2018",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2576,6 +2321,7 @@
       "Perustiedot": {
         "Rekisterinumero": "KRO-493",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "1-2013",
         "Käyttöönottopäivä": "10.04.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2691,6 +2437,7 @@
       "Perustiedot": {
         "Rekisterinumero": "GLF-356",
         "Moottori": "1,6 l, Diesel",
+        "Ensirekisteröinti": "4-2014",
         "Käyttöönottopäivä": "22.04.2014",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2798,6 +2545,7 @@
       "Perustiedot": {
         "Rekisterinumero": "JIY-479",
         "Moottori": "1,5 l, Diesel",
+        "Ensirekisteröinti": "8-2013",
         "Käyttöönottopäivä": "13.08.2013",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2894,6 +2642,7 @@
       "Perustiedot": {
         "Rekisterinumero": "LIT-458",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "5-1999",
         "Käyttöönottopäivä": "17.05.1999",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -2976,6 +2725,7 @@
       "Perustiedot": {
         "Rekisterinumero": "ZMG-633",
         "Moottori": "2,0 l, Bensiini",
+        "Ensirekisteröinti": "1-2004",
         "Käyttöönottopäivä": "15.01.2004",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3068,6 +2818,7 @@
       "Perustiedot": {
         "Rekisterinumero": "LLN-429",
         "Moottori": "1,2 l, Bensiini",
+        "Ensirekisteröinti": "12-2012",
         "Käyttöönottopäivä": "05.12.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3157,6 +2908,7 @@
       "Perustiedot": {
         "Rekisterinumero": "SJG-957",
         "Moottori": "1,5 l, Bensiini",
+        "Ensirekisteröinti": "6-2006",
         "Käyttöönottopäivä": "09.06.2006",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3237,6 +2989,7 @@
       "Perustiedot": {
         "Rekisterinumero": "TBZ-594",
         "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "5-2010",
         "Käyttöönottopäivä": "26.05.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3320,6 +3073,7 @@
       "Perustiedot": {
         "Rekisterinumero": "MKE-511",
         "Moottori": "1,0 l, Bensiini",
+        "Ensirekisteröinti": "9-2010",
         "Käyttöönottopäivä": "08.09.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3409,6 +3163,7 @@
       "Perustiedot": {
         "Rekisterinumero": "VUZ-878",
         "Moottori": "1,3 l, Bensiini",
+        "Ensirekisteröinti": "5-2012",
         "Käyttöönottopäivä": "23.05.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3497,6 +3252,7 @@
       "Perustiedot": {
         "Rekisterinumero": "UTY-339",
         "Moottori": "1,3 l, Bensiini",
+        "Ensirekisteröinti": "3-2006",
         "Käyttöönottopäivä": "07.03.2006",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3568,6 +3324,7 @@
       "Perustiedot": {
         "Rekisterinumero": "TOZ-867",
         "Moottori": "1,3 l, Bensiini",
+        "Ensirekisteröinti": "4-2011",
         "Käyttöönottopäivä": "21.04.2011",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3631,6 +3388,92 @@
     ]
   },
   {
+    "id": "16084777",
+    "name": "Toyota Yaris",
+    "malli": "1,5 Hybrid Active 5ov",
+    "sub": "Hyvin huollettu Hybrid Yaris",
+    "price": 10750,
+    "year": 2016,
+    "km": 173000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/11/03/3913d257ff206a7d-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16084777",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/03/3913d257ff206a7d-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/c0f8f8bfdcf0fcf6-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/d7d58a0d71abcfe5-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/3245472d11b31dc5-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/8cd2a9f3b0df286c-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/2d85a4b18a37427b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/7e0afffaf6b4662a-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/e77c57efbe6fec9e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/0340c0387295c64f-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/03/f0ae1318e6d6ef0e-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "KNO-645",
+        "Moottori": "1,5 l, Bensiini",
+        "Ensirekisteröinti": "3-2017",
+        "Käyttöönottopäivä": "10.02.2016",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "2-2026",
+        "Korimalli": "Viistoperä",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Valkoinen"
+      },
+      "Tekniset tiedot": {
+        "Teho": "54 kW / 73 Hv",
+        "Huippunopeus": "165 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 160 kg",
+        "Kokonaismassa": "1 565 kg",
+        "CO2 -päästöt": "75 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 3,1 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Ohjaustehostin",
+        "Sähkökäyttöiset ikkunat",
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Penkinlämmittimet",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "Äänentoistojärjestelmä",
+        "Bluetooth"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä"
+      ]
+    },
+    "lisatiedot": [
+      "2xrenkaat",
+      "Vakionopeuden säädin",
+      "Navi"
+    ]
+  },
+  {
     "id": "15992694",
     "name": "Volkswagen Golf",
     "malli": "Variant Comfortline Plus 1,4 TSI 90 kW (122 hv)",
@@ -3665,6 +3508,7 @@
       "Perustiedot": {
         "Rekisterinumero": "JIH-356",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "1-2013",
         "Käyttöönottopäivä": "21.01.2013",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3757,6 +3601,7 @@
       "Perustiedot": {
         "Rekisterinumero": "HKY-532",
         "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "9-2009",
         "Käyttöönottopäivä": "14.09.2009",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
@@ -3847,6 +3692,7 @@
       "Perustiedot": {
         "Rekisterinumero": "SKB-563",
         "Moottori": "2,0 l, Diesel",
+        "Ensirekisteröinti": "4-2010",
         "Käyttöönottopäivä": "01.04.2010",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
