@@ -931,6 +931,100 @@
     ]
   },
   {
+    "id": "16089926",
+    "name": "Kia Ceed",
+    "malli": "1,6 Ex 5d Leather",
+    "sub": "Vetokoukku / huoltokirja / ilmastointi / nahkasisusta / lohkolämmitin",
+    "price": 3350,
+    "year": 2007,
+    "km": 218000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/11/06/592c1ccf50eea0f4-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16089926",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/06/592c1ccf50eea0f4-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/2f06597c69c2ad3c-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/2285555738731926-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/2c3974592f7368a2-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/d601b095316701cd-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/a37e322bde74c39b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/a8a140322d900cdd-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/871d147efaa89660-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/eda49abb197bd972-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/cf9ae173f351bf31-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/871956f4da6aaa26-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/04e3fc3683c2391a-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/f33f6035dcb8c391-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/835a30c30a2c2a3e-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "ZEY-870",
+        "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "4-2007",
+        "Käyttöönottopäivä": "11.04.2007",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "6-2026",
+        "Korimalli": "Viistoperä",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Hopea metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "89 kW / 121 Hv",
+        "Henkilömäärä": "5",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 263 kg",
+        "Kokonaismassa": "1 710 kg",
+        "Vetomassa (jarrullinen)": "1 200 kg",
+        "Vetomassa (ei jarruja)": "550 kg",
+        "CO2 -päästöt": "152 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 8 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Nahkaverhoilu",
+        "Penkinlämmittimet",
+        "Sähkökäyttöiset ikkunat",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Ohjaustehostin",
+        "Sisätilanpistoke",
+        "Sähköpeilit"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Monitoimiohjauspyörä",
+        "Kahdet renkaat",
+        "Vetokoukku"
+      ]
+    },
+    "lisatiedot": [
+      "Kia Ceed 1.6 EX Leather luotettava ja edullinen arkiauto!",
+      "Siisti Kia Ceed nahkasisustalla, ilmastoinnilla ja vetokoukulla. Katsastettu 6/2026.",
+      "Vaihto ja rahoitus onnistuvat jopa ilman käsirahaa. Tervetuloa koeajolle!",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
+  },
+  {
     "id": "16068869",
     "name": "Kia Picanto",
     "malli": "1,0 ISG LX 5D EcoDynamics Hyvä huoltohistoria!",
@@ -1054,7 +1148,7 @@
         "Käyttöönottopäivä": "11.01.2012",
         "Vetotapa": "Etuveto",
         "Toimistomaksu": "100 €",
-        "Katsastettu": "1-2026",
+        "Katsastettu": "11-2026",
         "Korimalli": "Tila-auto",
         "Auton tyyppi": "Henkilöauto",
         "Väri": "Kupari metalliväri"
@@ -1113,6 +1207,119 @@
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
     "malli": "1,6 EX"
+  },
+  {
+    "id": "16090595",
+    "name": "Lexus IS",
+    "malli": "250 - Suomiauto",
+    "sub": "Hyvä huoltohistoria / Ilmastointi / nahkasisusta / vakionopeudensäädin",
+    "price": 9450,
+    "year": 2010,
+    "km": 267000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/11/06/7de0a9f20c97a01b-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16090595",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/06/7de0a9f20c97a01b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/82b6f5d26c670bf0-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/f17d84b5079e8c78-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/69d2df21f6cdfe6c-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/3750b0b007b7fa11-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/b39fe03fc43ac03b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/25e27fb09489648b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/33a46485d2b4f3dc-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/a14e249284737daa-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/71027ce9d14df36d-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/fa890084a6390c41-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/d4e17c6c44097e01-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/c77b06fbcb308d71-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/bc2809df13c4f70f-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/690b61c802dc010f-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/f6f82b101c2c19ba-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/c6778a1a41a7b996-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/a9c938c96a5bb840-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/9c2f084b57a066bc-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/7f150b3dbefd12b1-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/65c9b26db191b945-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/508f6c7476f82b87-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/ced80aafdf2d16da-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/00e1ce547b893fb7-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/06/15e40bfd18158c1e-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "CTJ-199",
+        "Moottori": "2,5 l, Bensiini",
+        "Ensirekisteröinti": "3-2010",
+        "Käyttöönottopäivä": "05.03.2010",
+        "Vetotapa": "Takaveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "3-2026",
+        "Korimalli": "Sedan",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Musta"
+      },
+      "Tekniset tiedot": {
+        "Teho": "153 kW / 208 Hv",
+        "Huippunopeus": "225 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 605 kg",
+        "Kokonaismassa": "2 045 kg",
+        "Vetomassa (jarrullinen)": "1 500 kg",
+        "Vetomassa (ei jarruja)": "560 kg",
+        "CO2 -päästöt": "209 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 12,5 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Ilmastointi: Automaattinen",
+        "Lohkolämmitin / moottorilämmitin",
+        "Ohjaustehostin",
+        "Pysäköintitutka",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen",
+        "Avaimeton käynnistys",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Nahkaverhoilu",
+        "Penkinlämmittimet",
+        "Sisätilanpistoke",
+        "Sähköpeilit"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä",
+        "Bluetooth",
+        "USB"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä"
+      ]
+    },
+    "lisatiedot": [
+      "Tyylikäs ja luotettava Lexus IS 250 takavedolla ja automaattivaihteistolla. Pehmeäkäyntinen 2.5 V6 -bensamoottori, hyvä huoltohistoria ja paperinen huoltokirja.",
+      "Varustelu mm. nahkasisusta, penkinlämmittimet, automaattinen ilmastointi, avaimeton käynnistys, vakionopeudensäädin, pysäköintitutka, monitoimiohjauspyörä ja lohkolämmitin. Mukana kahdet renkaat, kevytmetallivanteilla.",
+      "Lexukselle tyypillistä laatua ja ajomukavuutta edulliseen hintaan.",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
   },
   {
     "id": "16071642",
@@ -1203,113 +1410,6 @@
       "-Katsastettu 08/2026.",
       "-Ilmastointi",
       "-Suomiauto",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ]
-  },
-  {
-    "id": "16005263",
-    "name": "Mazda 6",
-    "malli": "2.0 Exclusive Hatchback VARATTU!",
-    "sub": "Hyvin huollettu ja siisti Suomi-auto. Kahdet renkaat, vakionopeudensäädin, katsastettu 7/26, vetokoukku.",
-    "price": 4950,
-    "year": 2010,
-    "km": 249000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/09/29/b284d9a6d0fae023-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16005263",
-    "images": [
-      "https://images.nettiauto.com/live/2026/09/29/b284d9a6d0fae023-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/63f36b1b9c2ec598-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/e1355670b9012db1-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/bb7a2d65e883c3bd-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/dee7bec2b68e0494-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/57e9c1cadc1c8adc-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/656f7643849d02db-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/b773538e2c2cfdc9-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/66e22bab1399e782-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/6138f55972695ed1-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/f33097970348c90f-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/7741c6adb12046a2-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/29/da7e5e8eb783cfd9-large.jpg",
-      "https://images.nettiauto.com/live/2026/09/23/45904666bc3ef163-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "LZC-915",
-        "Moottori": "2,0 l, Bensiini",
-        "Ensirekisteröinti": "8-2010",
-        "Käyttöönottopäivä": "17.08.2010",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "7-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Musta metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "114 kW / 155 Hv",
-        "Huippunopeus": "215 km/h",
-        "Henkilömäärä": "5",
-        "Ovien lkm": "4",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "1 435 kg",
-        "Kokonaismassa": "1 955 kg",
-        "Vetomassa (jarrullinen)": "1 500 kg",
-        "Vetomassa (ei jarruja)": "550 kg",
-        "CO2 -päästöt": "159 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 9,6 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Käynnistyksenesto",
-        "Lukkiutumattomat jarrut (ABS)",
-        "Luistonestojärjestelmä",
-        "Turvatyynyt"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Automaattinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Nahkaverhoilu",
-        "Penkinlämmittimet",
-        "Sisätilanpistoke",
-        "Sähköpeilit",
-        "Kaadettavat takaistuimet",
-        "Lohkolämmitin / moottorilämmitin",
-        "Ohjaustehostin",
-        "Pysäköintitutka",
-        "Sähkökäyttöiset ikkunat",
-        "Vakionopeudensäädin: Perinteinen"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kahdet renkaat",
-        "Monitoimiohjauspyörä",
-        "Vetokoukku",
-        "Huoltokirja: Sähköinen",
-        "Kevytmetallivanteet",
-        "Sadetunnistin"
-      ]
-    },
-    "lisatiedot": [
-      "Siisti ja hyvin huollettu Suomi-auto.",
-      "Myynnissä tyylikäs, musta metallivärinen Mazda 6, jossa yhdistyvät japanilainen luotettavuus ja Mazdalle tyypillinen ajamisen ilo. 2,0-litrainen bensiinimoottori (114 kW / 155 hv) ja käsivalintainen vaihteisto tekevät ajamisesta tarkkaa ja vaivatonta, ja tilava viistoperäkori sopii niin arkeen kuin pitkillekin matkoille.",
-      "Varusteina mm:",
-      "Bose-audiojärjestelmä",
-      "Vakionopeudensäädin",
-      "Vetokoukku (jarrullinen perävaunu 1500 kg)",
-      "Katsastettu 7/2026",
-      "Hyvin huollettu Suomi-auto",
-      "Yhdistetty kulutus 6,9 l/100 km",
-      "Mittarilukema 249 000 km, mutta auto on pidetty kunnossa ja on valmis palvelemaan uutta omistajaansa vielä pitkään.",
-      "Tervetuloa koeajolle! Vaihtoauto käy, ja rahoitus onnistuu helposti.",
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "tarkistathan tietojen oikeellisuus myyjältä",
       "**** rahoitus Jopa ilman käsirahaa ****"
@@ -2131,7 +2231,7 @@
         "Käyttöönottopäivä": "03.04.2008",
         "Vetotapa": "Neliveto",
         "Toimistomaksu": "100 €",
-        "Katsastettu": "12-2025",
+        "Katsastettu": "11-2026",
         "Korimalli": "Tila-auto",
         "Auton tyyppi": "Henkilöauto",
         "Väri": "Harmaa metalliväri"
@@ -2193,7 +2293,7 @@
       "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
-    "malli": "2,0 SE CVT 4x4 *Automaatti *Hyvin huollettu"
+    "malli": "2,0 SE CVT 4x4 *Automaatti *Hyvin huollettu *Katsastettu 11/2026"
   },
   {
     "id": "15753061",
@@ -3568,6 +3668,97 @@
     "lisatiedot": [
       "Haluatko tietää paljonko maksamme autostasi?",
       "Jätä auton tiedot www.kylmalaoy.fi"
+    ]
+  },
+  {
+    "id": "16095057",
+    "name": "Volkswagen Golf Plus",
+    "malli": "Comfortline 1,4 TSI 90 kW (122 hv)",
+    "sub": "Vähän ajettu ja hyvin huollettu / Vakionopeudensäädin / ilmastointi",
+    "price": 5950,
+    "year": 2010,
+    "km": 120000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/11/09/2c52f9994bad4181-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16095057",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/09/2c52f9994bad4181-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/7b4564ee0ca81f54-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/b94913bccf4fc2e5-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/f3e84d569fa69845-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/e352912de388c6c8-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/94dbf07de27a1475-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/f3c3f0c52c47e601-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/d91ed0bdfb0c5ba6-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/bc5b7d41fc16cb8e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/ef29a450620747e9-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/09/237369baa75f3db9-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "GJG-622",
+        "Moottori": "1,4 l, Bensiini",
+        "Ensirekisteröinti": "10-2010",
+        "Käyttöönottopäivä": "07.10.2010",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "10-2026",
+        "Korimalli": "Tila-auto",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Kupari metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "90 kW / 122 Hv",
+        "Huippunopeus": "195 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 416 kg",
+        "Kokonaismassa": "1 970 kg",
+        "Vetomassa (jarrullinen)": "1 300 kg",
+        "Vetomassa (ei jarruja)": "700 kg",
+        "CO2 -päästöt": "152 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 8,4 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Sisätilanpistoke",
+        "Sähköpeilit",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Kahdet renkaat"
+      ]
+    },
+    "lisatiedot": [
+      "Myynnissä siisti ja vähän ajettu Volkswagen Golf Plus 1.4 TSI Comfortline, ajettu vain 120 000 km.",
+      "Taloudellinen ja pirteä 122 hv TSI-moottori: yhdistetty kulutus vain 6,5 l/100 km (maantiellä 5,4 l). Auto on hoidettu hyvin ja sillä on hyvä huoltohistoria. Katsastettu 10/2026.",
+      "Golf Plus on tilava ja käytännöllinen perheauto korkealla istuma-asennolla. Varusteina mm. vakionopeudensäädin ja ilmastointi.",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
     ]
   },
   {
