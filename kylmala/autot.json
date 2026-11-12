@@ -416,6 +416,109 @@
     ]
   },
   {
+    "id": "16099623",
+    "name": "Citroen C5",
+    "malli": "HDi 163 Dynamic Tourer Automaatti",
+    "sub": "Hyvä huoltohistoria / vakionopeudensäädin / lasikatto / lohkolämmitin",
+    "price": 3450,
+    "year": 2012,
+    "km": 300000,
+    "fuel": "Diesel",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/11/11/359e0a1a85991c89-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16099623",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/11/359e0a1a85991c89-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/2a4495b5965b2cf4-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/d34583e68337d04a-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/3558b3247adaa133-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/3158e91e3fa2b9d9-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/f886a5af4c20cd45-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/2a7903fc04030951-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/33c97f641478726e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/6ff72eb522365b7d-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/99e7d2aaeebe8b3a-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/7954c01184277c9e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/f39fc0c4ad1fdfe2-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/70b13569862acc22-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/3e82cbc61c83accd-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/ebc9413ace313e77-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/11/51b95b51e0edbe0c-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "BPP-104",
+        "Moottori": "2,0 l, Diesel",
+        "Ensirekisteröinti": "1-2012",
+        "Käyttöönottopäivä": "03.01.2012",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "10-2026",
+        "Korimalli": "Farmari",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Valkoinen"
+      },
+      "Tekniset tiedot": {
+        "Teho": "120 kW / 163 Hv",
+        "Huippunopeus": "208 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 717 kg",
+        "Kokonaismassa": "2 286 kg",
+        "Vetomassa (jarrullinen)": "1 290 kg",
+        "Vetomassa (ei jarruja)": "750 kg",
+        "CO2 -päästöt": "163 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 8,2 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sisätilanpistoke",
+        "Sähköpeilit",
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Pysäköintitutka",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "USB",
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Monitoimiohjauspyörä",
+        "Turbo",
+        "Kahdet renkaat",
+        "Lasikatto",
+        "Sadetunnistin",
+        "Vetokoukku"
+      ]
+    },
+    "lisatiedot": [
+      "Citroën C5 Tourer 2.0 HDi automaatti vaihteilla. Auto on huollettu erittäin hyvin. Katsastettu 10/2026.",
+      "Varusteita on runsaasti, ja tunnelmaa tuo panoraamalasikatto."
+    ]
+  },
+  {
     "id": "16044505",
     "name": "Ford Mondeo",
     "malli": "1,6 110 hv Trend M5 Wagon Katsastettu 10-2026!",
@@ -1025,6 +1128,105 @@
     ]
   },
   {
+    "id": "16101433",
+    "name": "Kia Ceed",
+    "malli": "1,6 ISG EX SW EcoDynamics, Hyvä huoltohistoria!",
+    "sub": "Hyvä huoltohistoria / Vakionopeuden säädin / automaattinen ilmastointi",
+    "price": 7380,
+    "year": 2013,
+    "km": 186000,
+    "fuel": "Bensiini",
+    "gear": "Manuaali",
+    "img": "https://images.nettiauto.com/live/2026/11/12/e9963c66b049dc61-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16101433",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/12/e9963c66b049dc61-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/7cdeaf9c046d97f1-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/4c296d7463f30813-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/289d39f53971fde4-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/da9cab20541a838c-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/ec22821cb3a6a1d1-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/c41aa1dc086ed2d1-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/124f6140f9f6ca70-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/bade6ee5cc3d9c04-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/6f016fee3d29b9bb-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/1ad165e4ea0d4d0b-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/c0e27da4d544262c-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/4e4a176af2c0533e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/852a8f96bbb69487-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "XMV-846",
+        "Moottori": "1,6 l, Bensiini",
+        "Ensirekisteröinti": "1-2013",
+        "Käyttöönottopäivä": "18.01.2013",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "6-2026",
+        "Korimalli": "Farmari",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Hopea metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "99 kW / 135 Hv",
+        "Huippunopeus": "192 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 316 kg",
+        "Kokonaismassa": "1 820 kg",
+        "Vetomassa (jarrullinen)": "1 400 kg",
+        "Vetomassa (ei jarruja)": "600 kg",
+        "CO2 -päästöt": "134 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 7,5 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ajotietokone",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sisätilanpistoke",
+        "Sähköpeilit",
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Pysäköintitutka",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "USB",
+        "Matkapuhelinvarustus",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Sadetunnistin",
+        "Kahdet renkaat",
+        "Monitoimiohjauspyörä",
+        "Turbo"
+      ]
+    },
+    "lisatiedot": [
+      "Hyvin huollettu Kia Ceed farmari. Yhdistetty kulutus vain 6,0 l/100 km, maantiellä jopa 5,0 l/100 km. CO2-päästöt 134 g/km.",
+      "Varusteina mm. automaattinen ilmastointi, penkinlämmittimet, pysäköintitutka, vakionopeudensäädin, lohkolämmitin ja kahdet renkaat."
+    ]
+  },
+  {
     "id": "16068869",
     "name": "Kia Picanto",
     "malli": "1,0 ISG LX 5D EcoDynamics Hyvä huoltohistoria!",
@@ -1211,7 +1413,7 @@
   {
     "id": "16090595",
     "name": "Lexus IS",
-    "malli": "250 - Suomiauto",
+    "malli": "250 aut. Executive - Suomiauto",
     "sub": "Hyvä huoltohistoria / Ilmastointi / nahkasisusta / vakionopeudensäädin",
     "price": 9450,
     "year": 2010,
@@ -1907,16 +2109,17 @@
     ]
   },
   {
-    "id": "15774025",
+    "id": "16101553",
     "name": "Nissan Qashqai",
+    "malli": "1,6L Stop / Start System Acenta 2WD 5M/T Roof M",
     "sub": "Fiksu lasikatollinen Qashqai hyvällä huoltokirjalla",
+    "price": 5950,
     "year": 2011,
     "km": 205000,
-    "gear": "Manuaali",
     "fuel": "Bensiini",
-    "price": 6750,
+    "gear": "Manuaali",
     "img": "https://images.nettiauto.com/live/2026/05/28/f9e1ce7c9f1a77e5-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15774025",
+    "url": "https://www.nettiauto.com/yritys/749618/16101553",
     "images": [
       "https://images.nettiauto.com/live/2026/05/28/f9e1ce7c9f1a77e5-large.jpg",
       "https://images.nettiauto.com/live/2026/05/28/f0cbb5162de30cbd-large.jpg",
@@ -1992,21 +2195,20 @@
       "2x hyvät renkaat",
       "lohko + sisätilanlämmitin",
       "vetokoukku"
-    ],
-    "malli": "1,6L Acenta Panorama-kattoikkuna"
+    ]
   },
   {
-    "id": "16032942",
+    "id": "16101578",
     "name": "Nissan Qashqai",
-    "malli": "1,6L Acenta 2WD 5MT MY10 Katsastettu 10/-26!",
-    "sub": "Katsastettu 10/2026 /Suomi-Auto / Lohkolämmitin/ Vakkari / Autom.Ilmastointi / P-tutka",
-    "price": 7350,
+    "malli": "1,6L Acenta 2WD Katsastettu 10/-26!",
+    "sub": "Kestävällä 1.6 koneella! Katsastettu 10/2026 /Suomi-Auto / Lohkolämmitin/ Vakkari / Autom.Ilmastointi / P-tutka",
+    "price": 6950,
     "year": 2010,
     "km": 154000,
     "fuel": "Bensiini",
     "gear": "Manuaali",
     "img": "https://images.nettiauto.com/live/2026/10/07/826215d4028b106e-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16032942",
+    "url": "https://www.nettiauto.com/yritys/749618/16101578",
     "images": [
       "https://images.nettiauto.com/live/2026/10/07/826215d4028b106e-large.jpg",
       "https://images.nettiauto.com/live/2026/10/07/8bb28ce953e9e4ad-large.jpg",
@@ -2100,17 +2302,17 @@
     ]
   },
   {
-    "id": "16071518",
+    "id": "16101592",
     "name": "Nissan Qashqai+2",
     "malli": "2,0L 7-hengen Acenta Lasikatolla! Katsastettu 27.10.-26!",
     "sub": "Hyvin huollettu Qashqai seitsemällä istuimella! Jopa ilman käsirahaa!",
-    "price": 6750,
+    "price": 6350,
     "year": 2012,
     "km": 215000,
     "fuel": "Bensiini",
     "gear": "Manuaali",
     "img": "https://images.nettiauto.com/live/2025/11/18/6a093c57d550d6f2-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/16071518",
+    "url": "https://www.nettiauto.com/yritys/749618/16101592",
     "images": [
       "https://images.nettiauto.com/live/2025/11/18/6a093c57d550d6f2-large.jpg",
       "https://images.nettiauto.com/live/2025/11/18/ae3810864108c4cd-large.jpg",
@@ -2979,6 +3181,102 @@
     "malli": "Combi 1,2 TSI 85 Style"
   },
   {
+    "id": "16101465",
+    "name": "Skoda Roomster",
+    "malli": "1,2 TSI Experience DSG Autom. Hyvin huollettu!",
+    "sub": "Hyvä huoltohistoria / vakionopeudensäädin / vetokoukku",
+    "price": 5690,
+    "year": 2012,
+    "km": 188000,
+    "fuel": "Bensiini",
+    "gear": "Automaatti",
+    "img": "https://images.nettiauto.com/live/2026/11/12/8c4b14fadb27e394-medium.jpg",
+    "url": "https://www.nettiauto.com/yritys/749618/16101465",
+    "images": [
+      "https://images.nettiauto.com/live/2026/11/12/8c4b14fadb27e394-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/6f04b1542bca6b50-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/5c6214f7c310f345-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/592064966129f3d8-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/c39d0c93064860d3-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/b8a7abb3a0f4f51a-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/9e69f471afe6458e-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/0fa079ff0be2d95f-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/e7535f279002fcc8-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/e588cf0adcb0cab2-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/0a671bc8c89798af-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/5205d91012f69dfd-large.jpg",
+      "https://images.nettiauto.com/live/2026/11/12/00f7458ac4540695-large.jpg"
+    ],
+    "tiedot": {
+      "Perustiedot": {
+        "Rekisterinumero": "YIE-568",
+        "Moottori": "1,2 l, Bensiini",
+        "Ensirekisteröinti": "8-2012",
+        "Käyttöönottopäivä": "15.08.2012",
+        "Vetotapa": "Etuveto",
+        "Toimistomaksu": "100 €",
+        "Katsastettu": "9-2026",
+        "Korimalli": "Tila-auto",
+        "Auton tyyppi": "Henkilöauto",
+        "Väri": "Hopea metalliväri"
+      },
+      "Tekniset tiedot": {
+        "Teho": "77 kW / 105 Hv",
+        "Huippunopeus": "184 km/h",
+        "Henkilömäärä": "5",
+        "Ovien lkm": "4",
+        "Ohjauslaite": "Vasemmalla",
+        "Omamassa": "1 271 kg",
+        "Kokonaismassa": "1 726 kg",
+        "Vetomassa (jarrullinen)": "1 100 kg",
+        "Vetomassa (ei jarruja)": "630 kg",
+        "CO2 -päästöt": "134 g/km",
+        "Polttoaineen kulutus": "Kaupunki: 7,2 l/100 km"
+      }
+    },
+    "varusteet": {
+      "Turvallisuus": [
+        "Ajonvakautusjärjestelmä",
+        "Käynnistyksenesto",
+        "Lukkiutumattomat jarrut (ABS)",
+        "Turvatyynyt",
+        "Isofix-valmius",
+        "Luistonestojärjestelmä",
+        "Sumuvalot"
+      ],
+      "Sisätilat ja mukavuudet": [
+        "Ilmastointi: Automaattinen",
+        "Keskuslukitus: Kaukosäätöinen",
+        "Ohjaustehostin",
+        "Pysäköintitutka",
+        "Sähkökäyttöiset ikkunat",
+        "Vakionopeudensäädin: Perinteinen",
+        "Kaadettavat takaistuimet",
+        "Lohkolämmitin / moottorilämmitin",
+        "Penkinlämmittimet",
+        "Sisätilanpistoke",
+        "Sähköpeilit"
+      ],
+      "Elektroniikka": [
+        "Audio-liitäntä",
+        "Äänentoistojärjestelmä"
+      ],
+      "Muut": [
+        "Huoltokirja: Paperinen",
+        "Kevytmetallivanteet",
+        "Kahdet renkaat",
+        "Vetokoukku"
+      ]
+    },
+    "lisatiedot": [
+      "Hienokuntoinen Roomster, jossa yhdistyvät vaivaton automaattivaihteisto ja edullinen ajaminen. Yhdistetty kulutus vain 5,7 l/100 km (maantiellä 4,8 l). Korkea kattolinja ja reilu takatila tekevät autosta poikkeuksellisen tilavan.",
+      "Tervetuloa koeajolle!",
+      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
+      "tarkistathan tietojen oikeellisuus myyjältä",
+      "**** rahoitus Jopa ilman käsirahaa ****"
+    ]
+  },
+  {
     "id": "16002105",
     "name": "Suzuki SX4",
     "malli": "1.5 i 5-ov 2-omistajaa - Hyvä huoltohistoria",
@@ -3147,84 +3445,6 @@
       "**** rahoitus Jopa ilman käsirahaa ****"
     ],
     "malli": "1,6 Valvematic Terra Edition Wagon, Hyvin huollettu!"
-  },
-  {
-    "id": "15957135",
-    "name": "Toyota Aygo",
-    "sub": "Juuri katsastettu vähän ajettu luotto Toyota!",
-    "price": 4450,
-    "year": 2010,
-    "km": 98000,
-    "fuel": "Bensiini",
-    "gear": "Manuaali",
-    "img": "https://images.nettiauto.com/live/2026/08/31/57a8505ff43e4785-medium.jpg",
-    "url": "https://www.nettiauto.com/yritys/749618/15957135",
-    "images": [
-      "https://images.nettiauto.com/live/2026/08/31/57a8505ff43e4785-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/31f83428e025b123-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/bd3a82f03cd688bc-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/da3d2b78721685d4-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/0d23410624994bb6-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/ff959812af33ae73-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/6ec7fa6c1da7dd6f-large.jpg",
-      "https://images.nettiauto.com/live/2026/08/31/141d1710a27d7baa-large.jpg"
-    ],
-    "tiedot": {
-      "Perustiedot": {
-        "Rekisterinumero": "MKE-511",
-        "Moottori": "1,0 l, Bensiini",
-        "Ensirekisteröinti": "9-2010",
-        "Käyttöönottopäivä": "08.09.2010",
-        "Vetotapa": "Etuveto",
-        "Toimistomaksu": "100 €",
-        "Katsastettu": "8-2026",
-        "Korimalli": "Viistoperä",
-        "Auton tyyppi": "Henkilöauto",
-        "Väri": "Punainen metalliväri"
-      },
-      "Tekniset tiedot": {
-        "Teho": "50 kW / 68 Hv",
-        "Huippunopeus": "157 km/h",
-        "Henkilömäärä": "4",
-        "Ovien lkm": "2",
-        "Ohjauslaite": "Vasemmalla",
-        "Omamassa": "895 kg",
-        "Kokonaismassa": "1 180 kg",
-        "CO2 -päästöt": "106 g/km",
-        "Polttoaineen kulutus": "Kaupunki: 5,5 l/100 km"
-      }
-    },
-    "varusteet": {
-      "Turvallisuus": [
-        "Lukkiutumattomat jarrut (ABS)"
-      ],
-      "Sisätilat ja mukavuudet": [
-        "Ilmastointi: Manuaalinen",
-        "Keskuslukitus: Kaukosäätöinen",
-        "Penkinlämmittimet",
-        "Kaadettavat takaistuimet",
-        "Ohjaustehostin",
-        "Sähkökäyttöiset ikkunat"
-      ],
-      "Elektroniikka": [
-        "Audio-liitäntä",
-        "Äänentoistojärjestelmä"
-      ],
-      "Muut": [
-        "Huoltokirja: Paperinen",
-        "Kevytmetallivanteet",
-        "Kahdet renkaat"
-      ]
-    },
-    "lisatiedot": [
-      "2x hyvät renkaat",
-      "Alumiinivanteet",
-      "Ilmastointi",
-      "tarkistathan tietojen oikeellisuus myyjältä",
-      "-*** Lisää osoitteessa WWW.KYLMALAOY.FI ***-",
-      "**** rahoitus Jopa ilman käsirahaa ****"
-    ],
-    "malli": "1,0 VVT-i Red 3ov"
   },
   {
     "id": "16024491",
@@ -3673,7 +3893,7 @@
   {
     "id": "16095057",
     "name": "Volkswagen Golf Plus",
-    "malli": "Comfortline 1,4 TSI 90 kW (122 hv)",
+    "malli": "Varattu - Comfortline 1,4 TSI 90 kW (122 hv)",
     "sub": "Vähän ajettu ja hyvin huollettu / Vakionopeudensäädin / ilmastointi",
     "price": 5950,
     "year": 2010,
